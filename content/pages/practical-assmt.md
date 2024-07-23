@@ -26,7 +26,7 @@ sections:
       text:
         textAlign: left
   - type: CtaSection
-    title: Let's do this
+    title: Samples
     text: "QPs from AY 2022-2023 are available\_\n"
     actions:
       - type: Button
