@@ -52,7 +52,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: How to Use
-    subtitle: ''
+    subtitle: this website
     text: >
       Use the navigation bar (or menu button on phones) on the top right to
       navigate your way through the different sub-sites.
