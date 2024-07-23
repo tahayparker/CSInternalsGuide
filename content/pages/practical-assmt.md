@@ -27,9 +27,7 @@ sections:
         textAlign: left
   - type: CtaSection
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: "QPs from AY 2022-2023 are available\_\n"
     actions:
       - type: Button
         label: Try it now
