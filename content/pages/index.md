@@ -49,7 +49,7 @@ sections:
       This guide was made to help you complete the Internal Assessment(s) for
       Computer Science.
   - type: TextSection
-    colors: colors-d
+    colors: colors-f
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
