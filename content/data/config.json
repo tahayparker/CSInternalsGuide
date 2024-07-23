@@ -67,7 +67,7 @@
                 "altText": "Netlify templates"
             }
         ],
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Made by [Taha Parker](https://tahayparker.vercel.app/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
