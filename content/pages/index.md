@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: The cs internals guide
+    title: The CS Internals Guide
     subtitle: Probably the only one you need.
     styles:
       self:
