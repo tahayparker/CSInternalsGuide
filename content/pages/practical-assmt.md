@@ -31,7 +31,7 @@ sections:
       QPs from AY 2022-2023 can be found by clicking
     actions:
       - type: Button
-        label: Try it now
+        label: here
         altText: ''
         url: /
         showIcon: true
