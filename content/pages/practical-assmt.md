@@ -33,7 +33,8 @@ sections:
       - type: Button
         label: here
         altText: ''
-        url: /
+        url: >-
+          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Practical-2023
         showIcon: true
         icon: arrowRight
         iconPosition: right
