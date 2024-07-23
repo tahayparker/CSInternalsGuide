@@ -27,7 +27,8 @@ sections:
         textAlign: left
   - type: CtaSection
     title: Samples
-    text: "QPs from AY 2022-2023 are available\_\n"
+    text: |
+      QPs from AY 2022-2023 can be found by clicking
     actions:
       - type: Button
         label: Try it now
