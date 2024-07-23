@@ -53,13 +53,20 @@ sections:
     variant: variant-b
     title: How to Use
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      Use the navigation bar (or menu button on phones) on the top right to
+      navigate your way through the different sub-sites.
+
+
+      Each part of the Internal Assessment has a sub-site.
+
+
+      Each sub-site has a description of the part of the Internal Assessment and
+      a guide on how to complete it.
+
+
+      Each sub-site also has a link to a sample of the part of the Internal
+      Assessment.
     elementId: ''
     styles:
       self:
