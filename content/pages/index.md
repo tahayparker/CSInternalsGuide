@@ -42,6 +42,12 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      Welcome to the Computer Science Internal Assessment Guide.
+
+
+      This guide was made to help you complete the Internal Assessment(s) for
+      Computer Science.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
