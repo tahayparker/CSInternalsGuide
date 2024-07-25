@@ -556,7 +556,7 @@ sections:
     variant: variant-a
     title: Program Source Code
     text: >+
-This is the entire Python program that you have written.
+    This is the entire Python program that you have written.
 
 Code must be COPY-PASTED. NO SCREENSHOTS.
 
