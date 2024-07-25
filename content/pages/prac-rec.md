@@ -116,7 +116,7 @@ sections:
       This is the first page of your record.
 
 
-      Contains the title ("Project Record"), the academic year, the name of your
+      Contains the title ("P Record"), the academic year, the name of your
       project (three to four words max), and a place for your details.
 
 
