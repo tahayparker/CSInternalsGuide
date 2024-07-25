@@ -476,7 +476,11 @@ sections:
       
       
       * Built-in functions - such as `print()`, `connect()`, `append()`, etc. Functions imported from modules go here. Include any and all functions.
+      
+      
       * User-defined functions - Any functions you have made yourself should be included here.
+      
+      
       * Comment: When adding functions, include any parameters you have included in the function header. Example: `connect(host, user, password, database)`
       * Variables - Any and all variables you may have used. This includes variables such as `i` which is used in `for i in ...`
 
