@@ -419,7 +419,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Introduction
+    title: Synopsu
     text: >+
       Write a brief introduction about your project.
 
