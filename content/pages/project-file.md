@@ -779,7 +779,7 @@ elementId: 'bibliography'
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Bibliography / References
+    title: F
     text: >+
       Include all the sources you have used to make your project.
 
