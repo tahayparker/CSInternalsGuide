@@ -259,7 +259,7 @@ sections:
       
       
       <br>
-      
+
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
 
@@ -300,7 +300,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Introduction
+    title: M
     text: >
       Write a brief introduction about your project.
 
