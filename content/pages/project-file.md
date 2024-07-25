@@ -144,7 +144,7 @@ sections:
       
       * Synopsis
       
-      System Description
+      * System Description
       
       Program Source Code
       
