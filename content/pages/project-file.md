@@ -923,7 +923,7 @@ sections:
       print("""
       
       
-      #Program Title in ANSI Characters
+      Program Title in ANSI Characters
       
       
       ████████ ██ ████████ ██      ███████ 
