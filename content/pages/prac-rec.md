@@ -473,7 +473,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      To see sample re from AY 2022-2023, click on the button
+      To see sample records from AY 2022-2023, click on the button
     actions:
       - type: Button
         label: Let's go!
