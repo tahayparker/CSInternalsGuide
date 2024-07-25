@@ -426,7 +426,8 @@ sections:
 
       Write about the various functions of your project, briefly explaining what the main ones do.
 
-      
+
+      This can be 
 
     elementId: 'synopsis'
     styles:
