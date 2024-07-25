@@ -18,7 +18,7 @@ sections:
         width: narrow
         padding:
           - pt-16
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -131,7 +131,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The File / Record
-    text: >+
+    text: >
       Your file should contain the following headers:
 
       * [Cover Page](#cover)
@@ -169,13 +169,18 @@ sections:
       These will be explained in detail in the following sections.
 
 
-      Your file should have borders on all pages. The borders should be formal. Consider selecting solid or double borders, preferably in black.
+      Your file should have borders on all pages. The borders should be formal.
+      Consider selecting solid or double borders, preferably in black.
 
 
-      Your file should have page numbers on all pages. There is no rule regarding the format, but the preferred placement of the page number is either bottom centered or in the bottom right corner.
+      Your file should have page numbers on all pages. There is no rule
+      regarding the format, but the preferred placement of the page number is
+      either bottom centered or in the bottom right corner.
 
 
-      Leave a margin on the left for the binding. You may go with narrow borders, and then press custom borders and add 0.5 to 1 cm to the margin on the left.
+      Leave a margin on the left for the binding. You may go with narrow
+      borders, and then press custom borders and add 0.5 to 1 cm to the margin
+      on the left.
 
 
       Ensure that the page numbers are within the margins.
@@ -213,14 +218,15 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Cover Page
-    text: >+
+    text: >
       ***This page must be provided by your teacher.***
 
 
       This is the first page of your record.
 
 
-      Contains the title ("Project Record"), the academic year, the name of your project (three to four words max), and a place for your details.
+      Contains the title ("Project Record"), the academic year, the name of your
+      project (three to four words max), and a place for your details.
 
 
       The page numbers for the record start from the cover page.
@@ -229,11 +235,13 @@ sections:
       Ensure logos and other details are within the margins.
 
 
-      ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
+      ***Ensure academic year mentioned is the correct academic year. Currently,
+      it will be 2024-2025.***
 
 
-      ***DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.***
-    elementId: 'cover'
+      ***DO NOT PRINT THE DETAILS. These will be written by hand, using
+      black/blue ink on or before the day of the practical exam.***
+    elementId: cover
     styles:
       self:
         height: auto
@@ -267,7 +275,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Certificate
-    text: >+
+    text: >
       ***This page must be provided by your teacher.***
 
 
@@ -277,20 +285,24 @@ sections:
       This page must be numbered as well.
 
 
-      Contains a certificate stating that the project is your own work and stuff.
+      Contains a certificate stating that the project is your own work and
+      stuff.
 
 
-      Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
+      Ensure that the teacher's name is typed, preferably in another color, and
+      is spelled exactly as stated.
 
 
       Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
 
 
-      ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
+      ***Ensure academic year mentioned is the correct academic year. Currently,
+      it will be 2024-2025.***
 
 
-      ***DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.***
-    elementId: 'certificate'
+      ***DO NOT PRINT THE DETAILS. These will be written by hand, using
+      black/blue ink on or before the day of the practical exam.***
+    elementId: certificate
     styles:
       self:
         height: auto
@@ -324,21 +336,25 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Acknowledgement
-    text: >+
+    text: >
       Pretty straighforward, nothing to worry about.
 
 
-      Write a page thanking your teacher, your parents, your friends, and anyone else who helped you.
+      Write a page thanking your teacher, your parents, your friends, and anyone
+      else who helped you.
 
 
-      Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
+      Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about
+      half a page long.
 
 
-      *Pro Tip: [Claude AI](https://claude.ai) writes stuff pretty naturally if you tell it to. [Contact me](https://tahayparker.vercel.app/contact/) if you want the prompt I use.*
-      
-      
+      *Pro Tip: [Claude AI](https://claude.ai) writes stuff pretty naturally if
+      you tell it to. [Contact me](https://tahayparker.vercel.app/contact/) if
+      you want the prompt I use.*
+
+
       Do not exceed one page. Seriously. No need to thank every single person.
-    elementId: 'acknowledgement'
+    elementId: acknowledgement
     styles:
       self:
         height: auto
@@ -372,21 +388,23 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Introduction
-    text: >+
+    text: >
       Write a brief introduction about your project.
 
 
       This is more of marketing than technical talk.
 
 
-      Write about your project, and what it does, without going into the technical details at all.
+      Write about your project, and what it does, without going into the
+      technical details at all.
 
 
-      You can even "create" a problem and then propose your project as a solution to the problem.
+      You can even "create" a problem and then propose your project as a
+      solution to the problem.
 
 
       Do not exceed one page. Shouldn't get too boring.
-    elementId: 'intro'
+    elementId: intro
     styles:
       self:
         height: auto
@@ -420,15 +438,16 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Synopsis
-    text: >+
+    text: >
       This section will describe your project in more technical terms.
 
 
-      Write about the various functions of your project, briefly explaining what the main ones do.
+      Write about the various functions of your project, briefly explaining what
+      the main ones do.
 
 
       This can be one to two pages long.
-    elementId: 'synopsis'
+    elementId: synopsis
     styles:
       self:
         height: auto
@@ -445,7 +464,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
