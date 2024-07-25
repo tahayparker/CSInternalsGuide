@@ -154,7 +154,7 @@ sections:
       
       * Bibliography
 
-*   Store-fronts (Movie store, Bookstore, etc.)
+    *   Store-fronts (Movie store, Bookstore, etc.)
 
 
       *   Management (Inventory Management, Employee Management, etc.)
