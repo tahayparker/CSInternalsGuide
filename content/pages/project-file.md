@@ -218,7 +218,7 @@ sections:
 
       * [Cover Page](#cover)
 
-    elementId: ''
+    elementId: 'cover'
     styles:
       self:
         height: auto
