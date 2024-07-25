@@ -480,7 +480,7 @@ sections:
       ### MySQL
 
 
-      
+      Includ
     elementId: 'synopsis'
     styles:
       self:
