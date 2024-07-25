@@ -18,7 +18,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -104,7 +104,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -186,7 +186,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -240,7 +240,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -297,7 +297,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -345,7 +345,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -393,7 +393,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -435,7 +435,7 @@ sections:
         width: narrow
         padding:
           - pt-6
-          - pb-16
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
