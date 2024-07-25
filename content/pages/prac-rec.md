@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Practical 
+    title: Practical Record
     subtitle: 8 marks
     text: |
       A printed, binded document.
