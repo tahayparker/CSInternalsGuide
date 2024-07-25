@@ -310,7 +310,7 @@ sections:
       
       The format is as follows:
 
-      (qs number). (Question)
+      * (qs number). (Question)
       (SQL Query)
       (Output)
       
