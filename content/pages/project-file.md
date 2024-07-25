@@ -1054,7 +1054,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      To see sample projects from AY
+      To see sample projects from AY 2023
     actions:
       - type: Button
         label: Let's go!
