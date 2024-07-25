@@ -271,16 +271,16 @@ sections:
       ***This page must be provided by your teacher.***
 
 
-      This is the first page of your record.
+This is the second page of your record.
 
+This page must be numbered as well.
 
-      Contains the title ("Project Record"), the academic year, the name of your project (three to four words max), and a place for your details.
+Contains a certificate stating that the project is your own work and stuff.
 
+Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
 
-      The page numbers for the record start from the cover page.
+Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
 
-
-      Ensure logos and other details are within the margins.
 
 
       ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
