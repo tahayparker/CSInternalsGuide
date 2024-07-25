@@ -250,7 +250,7 @@ sections:
       
       * Code
           
-          (insert code here)
+        (insert code here)
       
       
       * Output
