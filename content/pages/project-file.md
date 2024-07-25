@@ -1002,6 +1002,21 @@ sections:
 
       ```
       
+      import os, sys imports special modules that help connect with the terminal of your system.
+
+os.system("cls") / os.system("clear") clears the terminal so that all the messy input/output/errors on the screen are cleared off.
+
+os.system runs pip to install modules that you use so that you don't have to manually install them.
+
+Instead of pip install, you can use pip3 install -qqq --disable-pip-version-check --no-cache-dir --no-color --no-warn-conflicts --user --no-python-version-warning --no-input --no-warn-script-location  to hide the installation process from the user.
+
+sys.exit exits the program if there is an error in the code.
+
+cursor.execute("CREATE TABLE IF NOT EXISTS") creates the tables from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
+
+cursor.execute("INSERT INTO") inserts data into the table from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
+
+
       
       It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
 
