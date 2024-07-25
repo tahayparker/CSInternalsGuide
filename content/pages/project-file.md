@@ -150,7 +150,7 @@ sections:
       
       * Program Output
       
-      Conclusion
+      * Conclusion
       
       Bibliography
 
