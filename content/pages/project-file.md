@@ -225,6 +225,7 @@ sections:
 
       The page numbers for the record start from the cover page.
 
+
       Ensure logos and other details are within the margins.
 
       Ensure academic year mentioned is the correct academic year. Currently, it will be 2023-2024.
