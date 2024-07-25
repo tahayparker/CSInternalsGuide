@@ -789,7 +789,7 @@ sections:
 
       <br>
       
-      
+    
       When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
 
 
