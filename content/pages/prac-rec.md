@@ -258,7 +258,7 @@ sections:
         (insert output here)
       
       
-      M
+      <br>
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
 
