@@ -31,7 +31,7 @@ sections:
       QPs from AY 2022-2023 can be found by clicking on the button.
     actions:
       - type: Button
-        label: Click here
+        label: Let's go!
         altText: ''
         url: >-
           https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Practical-2023
