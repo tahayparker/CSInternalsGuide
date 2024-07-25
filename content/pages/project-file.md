@@ -957,7 +957,10 @@ sections:
       
       
       sys.exit("Error installing modules!")
+      
+      
       try:
+      
       import mysql.connector
       import #any other modules you used#
       except:
