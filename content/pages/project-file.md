@@ -604,19 +604,18 @@ sections:
     variant: variant-a
     title: Program Output
     text: >+
-      This is the entire Python program that you have written.
+The output of the program.
 
+Include all possible outputs of the program, by selecting the different options of the menu.
 
-      **Code must be COPY-PASTED. NO SCREENSHOTS.**
+If you run the program multiple times to get outputs, it is recommended to write Run (number) to show that the program output is from different sessions.
 
+Output must be COPY-PASTED. NO SCREENSHOTS.
 
-      Ensure that the program is properly indented.
+If you have colors in your output, ensure that the same color is applied in the output.
 
+It is recommended to use a monospace font, such as Consolas or any other font from the Internet.
 
-      It is recommended to use a monospace font, such as `Consolas` or any other font from the Internet.
-
-
-      Use [Google Fonts](https://fonts.google.com) to find monospaced fonts.
     elementId: 'output'
     styles:
       self:
