@@ -493,7 +493,7 @@ sections:
       Include the following:
       
 
-      * Database name - Usually `your-projke
+      * Database name - Usually `your-proje
     elementId: 'synopsis'
     styles:
       self:
