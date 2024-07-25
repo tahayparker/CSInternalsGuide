@@ -424,7 +424,7 @@ sections:
       This section will describe your project in more technical terms.
 
 
-      Write about 
+      Write about the varisou
 
     elementId: 'synopsis'
     styles:
