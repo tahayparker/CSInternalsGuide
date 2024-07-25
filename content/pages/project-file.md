@@ -994,6 +994,8 @@ sections:
       
       # Add the data to be inserted into the table using text file and INSERT command if any data is to be inserted
 
+      
+      
       # All User Defined Functions
 
       def function-name():
