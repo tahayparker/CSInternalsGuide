@@ -502,7 +502,7 @@ sections:
       * Output of `desc table-name`
 
 
-      C
+      Continue for ta
     elementId: 'synopsis'
     styles:
       self:
