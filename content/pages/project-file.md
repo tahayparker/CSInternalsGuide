@@ -138,9 +138,11 @@ sections:
 
 
       * Certificate
-      
+
+
       * Acknowledgement
-      
+
+
       * Introduction
       
       * Synopsis
