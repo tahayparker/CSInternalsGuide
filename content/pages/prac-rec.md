@@ -420,13 +420,6 @@ sections:
     variant: variant-a
     title: Tips
     text: >+
-      Use [Visual Studio Code](https://code.visualstudio.com/) to write your project.
-
-      It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
-
-
-      <br>
-      
       Color your code. Use a light theme in Visual Studio Code and then copy paste the code into Word.
 
 
