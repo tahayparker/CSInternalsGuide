@@ -137,9 +137,13 @@ sections:
       * Cover Page
       
       Certificate
+      
       Acknowledgement
+      
       Introduction
+      
       Synopsis
+      
       System Description
       Program Source Code
       Program Output
