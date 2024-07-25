@@ -486,7 +486,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Practic
+        label: Practical Records
         altText: ''
         url: >-
           https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Project%20Files
