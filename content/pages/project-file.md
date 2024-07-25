@@ -149,7 +149,7 @@ sections:
       * [Synopsis](#synopsis)
 
 
-      * [System Description
+      * [System Description]
 
 
       * Program Source Code
