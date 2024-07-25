@@ -159,7 +159,8 @@ sections:
 
 
       * Conclusion
-      
+
+
       * Bibliography
     elementId: ''
     styles:
