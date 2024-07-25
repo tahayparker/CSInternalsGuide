@@ -489,7 +489,7 @@ sections:
         label: Practical Records
         altText: ''
         url: >-
-          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Project%20Files
+          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Practical%20Records
         showIcon: true
         icon: arrowRight
         iconPosition: right
