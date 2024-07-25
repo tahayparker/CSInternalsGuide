@@ -654,7 +654,7 @@ sections:
 
       This is a mix of the introduction and the synopsis.
 
-A page for the conclusion should suffice.
+      A page for the conclusion should suffice.
     elementId: 'output'
     styles:
       self:
