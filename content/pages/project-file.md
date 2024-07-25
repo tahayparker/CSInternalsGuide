@@ -602,7 +602,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Program O
+    title: Program Output
     text: >+
       This is the entire Python program that you have written.
 
