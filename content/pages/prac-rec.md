@@ -10,7 +10,7 @@ sections:
     text: |
       A printed, binded document.
 
-Much much easier than the Project Record, considering it's just copy paste.
+      Much much easier than the Project Record, considering it's just copy paste.
 
 Two parts: Python and MySQL
 
