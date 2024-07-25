@@ -244,7 +244,7 @@ sections:
 
       * Experiment No. (number)
       * Aim: (insert aim here)
-      Code
+      * Code
       (insert code here)
       Output
       (insert output here)
