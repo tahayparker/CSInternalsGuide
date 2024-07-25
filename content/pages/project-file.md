@@ -610,9 +610,9 @@ sections:
 
       If you run the program multiple times to get outputs, it is recommended to write Run (number) to show that the program output is from different sessions.
 
-    Output must be COPY-PASTED. NO SCREENSHOTS.
+      Output must be COPY-PASTED. NO SCREENSHOTS.
 
-If you have colors in your output, ensure that the same color is applied in the output.
+      If you have colors in your output, ensure that the same color is applied in the output.
 
 It is recommended to use a monospace font, such as Consolas or any other font from the Internet.
     elementId: 'output'
