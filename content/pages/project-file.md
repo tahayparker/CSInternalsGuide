@@ -1054,7 +1054,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      To see sampl
+      To see sample proje
     actions:
       - type: Button
         label: Let's go!
