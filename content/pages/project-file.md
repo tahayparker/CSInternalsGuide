@@ -604,7 +604,7 @@ sections:
     variant: variant-a
     title: Program Output
     text: >+
-The output of the program.
+  The output of the program.
 
 Include all possible outputs of the program, by selecting the different options of the menu.
 
