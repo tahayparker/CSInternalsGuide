@@ -732,8 +732,8 @@ sections:
       * https://www.geeksforgeeks.org/python-programming-language/
       * https://www.geeksforgeeks.org/sql-tutorial/
       * https://stackoverflow.com/
-      https://pypi.org/
-      https://github.com/
+      * https://pypi.org/
+      * https://github.com/
 
     elementId: 'bibliography'
     styles:
