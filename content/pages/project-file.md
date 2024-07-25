@@ -155,7 +155,7 @@ sections:
       * [Program Source Code](#sourcecode)
 
 
-      * [Program Output](#output
+      * [Program Output](#output)
 
 
       * Conclusion
