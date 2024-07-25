@@ -169,6 +169,7 @@ sections:
 
       Your file should have borders on all pages. The borders should be formal. Consider selecting solid or double borders, preferably in black.
 
+
       Your file should have page numbers on all pages. There is no rule regarding the format, but the preferred placement of the page number is either bottom centered or in the bottom right corner.
 
       Leave a margin on the left for the binding. You may go with narrow borders, and then press custom borders and add 0.5 to 1 cm to the margin on the left.
