@@ -246,7 +246,7 @@ sections:
       * Aim: (insert aim here)
       * Code
           (insert code here)
-      Output
+      * Output
       (insert output here)
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
