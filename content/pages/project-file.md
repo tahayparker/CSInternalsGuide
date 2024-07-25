@@ -499,7 +499,7 @@ sections:
       * Table 1: `table-name`
 
 
-      * Output od 
+      * Output of `d
     elementId: 'synopsis'
     styles:
       self:
