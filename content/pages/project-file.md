@@ -763,6 +763,7 @@ elementId: 'bibliography'
         textAlign: left
       text:
         textAlign: left
+
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
