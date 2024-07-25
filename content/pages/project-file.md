@@ -7,13 +7,12 @@ sections:
     variant: variant-a
     title: Project File
     subtitle: 8 marks
-    text: |-
+    text: |
       A printed, binded document.
 
       Contains your project written in pure Python with connectivity to MySQL.
 
-
-      - [ ] This is a test checkmark
+      [ ] This is a test checkmark
     elementId: ''
     styles:
       self:
