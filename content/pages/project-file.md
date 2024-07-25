@@ -503,7 +503,7 @@ sections:
 
 
       Continue for all tables in the database
-    elementId: 'synopsis'
+    elementId: 'sysdesc'
     styles:
       self:
         height: auto
