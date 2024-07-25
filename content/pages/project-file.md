@@ -153,8 +153,6 @@ sections:
       * Conclusion
       
       * Bibliography
-
-
     elementId: ''
     styles:
       self:
