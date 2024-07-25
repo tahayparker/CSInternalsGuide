@@ -136,7 +136,7 @@ sections:
 
       * Cover Page
       
-      Certificate
+      * Certificate
       
       Acknowledgement
       
