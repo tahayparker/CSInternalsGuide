@@ -146,9 +146,9 @@ sections:
       
       * System Description
       
-      Program Source Code
+      * Program Source Code
       
-      Program Output
+      * Program Output
       
       Conclusion
       
