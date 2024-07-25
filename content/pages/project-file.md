@@ -11,8 +11,6 @@ sections:
       A printed, binded document.
 
       Contains your project written in pure Python with connectivity to MySQL.
-
-      [ ] This is a test checkmark
     elementId: ''
     styles:
       self:
