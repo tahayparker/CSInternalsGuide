@@ -307,7 +307,63 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Certificate
+    text: >+
+      ***This page must be provided by your teacher.***
 
+
+      This is the second page of your record.
+
+
+      This page must be numbered as well.
+
+
+      Contains a certificate stating that the project is your own work and stuff.
+
+
+      Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
+
+
+      Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
+
+
+      ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
+
+
+      ***DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.***
+    elementId: 'certificate'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-16
+          - pb-16
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
