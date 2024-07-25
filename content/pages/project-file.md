@@ -827,6 +827,70 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Finalizing & Printing
+    text: >+
+      Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
+
+
+      Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
+
+
+      <br>
+      
+      When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
+
+
+      Use a good quality printer. The print should be clear and readable.
+
+
+      If your parent's company has a printer, try asking if they can print. Otherwise, go to a stationery shop. Bargain as much as you can. Should be around 1 AED for 5 pages or so.
+
+
+      Once you have printed the file, bind it. Spiral binding is the only binding accepted. Color should be as decided by your teacher.
+
+
+      <br>
+
+      All students MUST use the same color of binding.
+
+
+      Once you have bound the file, you are done. Congratulations! Submit the file for final checks.
+
+
+      While there shouldn't be any reason for the teacher to make corrections now (if the file was previously approved), it is still a good idea to get it checked once and correct any errors that may be pointed out.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 addTitleSuffix: true
 colors: colors-a
