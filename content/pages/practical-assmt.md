@@ -28,7 +28,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      QPs from AY 2022-2023 can be found by clicking
+      QPs from AY 2022-2023 can be found by clicking on the button.
     actions:
       - type: Button
         label: here
