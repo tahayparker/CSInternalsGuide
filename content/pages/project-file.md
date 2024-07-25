@@ -134,16 +134,16 @@ sections:
     text: >+
       Your file should contain the following headers:
 
-Cover Page
-Certificate
-Acknowledgement
-Introduction
-Synopsis
-System Description
-Program Source Code
-Program Output
-Conclusion
-Bibliography
+  Cover Page
+  Certificate
+  Acknowledgement
+  Introduction
+  Synopsis
+  System Description
+  Program Source Code
+  Program Output
+  Conclusion
+  Bibliography
 
 *   Store-fronts (Movie store, Bookstore, etc.)
 
