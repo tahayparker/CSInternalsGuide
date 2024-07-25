@@ -714,6 +714,7 @@ sections:
 
       Include the links to the websites you have used.
 
+
 You can always include Python and MySQL documentation in the "Sites Referred" section.
 
 MySQL Documentation - https://dev.mysql.com/doc/refman/8.0/en/
