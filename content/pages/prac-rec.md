@@ -73,6 +73,7 @@ sections:
 
       Leave a margin on the left for the binding. You may go with narrow borders, and then press custom borders and add 0.5 to 1 cm to the margin on the left.
 
+
       Ensure that the page numbers are within the margins.
 
 
