@@ -781,55 +781,26 @@ elementId: 'bibliography'
     variant: variant-a
     title: Finalizing & Printing
     text: >+
-      Include all the sources you have used to make your project.
+Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
+
+Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
 
 
-      Include the names of the books you have used.
+When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
+
+Use a good quality printer. The print should be clear and readable.
+
+If your parent's company has a printer, try asking if they can print. Otherwise, go to a stationery shop. Bargain as much as you can. Should be around 1 AED for 5 pages or so.
+
+Once you have printed the file, bind it. Spiral binding is the only binding accepted. Color should be as decided by your teacher.
 
 
-      Two books which you can write are:
+All students MUST use the same color of binding.
 
+Once you have bound the file, you are done. Congratulations! Submit the file for final checks.
 
-      * Computer Science with Python Class XII by Preeti Arora
+While there shouldn't be any reason for the teacher to make corrections now (if the file was previously approved), it is still a good idea to get it checked once and correct any errors that may be pointed out.
 
-
-      * Computer Science with Python Class XI by Preeti Arora
-
-
-      Include the links to the websites you have used.
-
-
-      You can always include Python and MySQL documentation in the "Sites Referred" section.
-
-
-      MySQL Documentation - https://dev.mysql.com/doc/refman/8.0/en/
-
-
-      Python Documentation - https://docs.python.org/3/
-
-
-      Some more sites you can include:
-
-
-      * https://www.w3schools.com/python/
-
-
-      * https://www.w3schools.com/sql/
-      
-      
-      * https://www.geeksforgeeks.org/python-programming-language/
-      
-      
-      * https://www.geeksforgeeks.org/sql-tutorial/
-      
-      
-      * https://stackoverflow.com/
-      
-      
-      * https://pypi.org/
-      
-      
-      * https://github.com/
 elementId: ''
     styles:
       self:
