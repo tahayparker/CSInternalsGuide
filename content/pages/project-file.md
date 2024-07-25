@@ -556,13 +556,16 @@ sections:
     variant: variant-a
     title: Program Source Code
     text: >+
-      This section will describe your project in more technical terms.
+This is the entire Python program that you have written.
 
+Code must be COPY-PASTED. NO SCREENSHOTS.
 
-      Write about the various functions of your project, briefly explaining what the main ones do.
+Ensure that the program is properly indented.
 
+It is recommended to use a monospace font, such as Consolas or any other font from the Internet.
 
-      This can be one to two pages long.
+Use Google Fonts to find monospaced fonts.
+
     elementId: 'sourcecode'
     styles:
       self:
