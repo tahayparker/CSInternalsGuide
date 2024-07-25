@@ -864,7 +864,7 @@ sections:
 
       <br>
 
-      Use [GitHu]
+      Use [GitHub Cop]
 
 
 
