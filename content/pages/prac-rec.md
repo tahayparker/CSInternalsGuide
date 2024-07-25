@@ -56,7 +56,7 @@ sections:
       Certificate
       Python programs (questions to be listed in index)
       MySQL programs
-Your file should have borders on all pages. The borders should be formal. Consider selecting solid or double borders, preferably in black.
+    Your file should have borders on all pages. The borders should be formal. Consider selecting solid or double borders, preferably in black.
 
 Your file should have page numbers on all pages. There is no rule regarding the format, but the preferred placement of the page number is either bottom centered or in the bottom right corner.
 
