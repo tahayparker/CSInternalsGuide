@@ -17,7 +17,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -103,7 +103,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -185,7 +185,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -239,7 +239,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -296,7 +296,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -344,7 +344,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -392,7 +392,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
@@ -434,7 +434,7 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-16
+          - pt-6
           - pb-16
           - pl-4
           - pr-4
