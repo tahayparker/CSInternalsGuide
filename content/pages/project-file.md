@@ -327,9 +327,12 @@ sections:
     text: >+
       Pretty straighforward, nothing to worry about.
 
+
       Write a page thanking your teacher, your parents, your friends, and anyone else who helped you.
 
+
       Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
+
 
       Do not exceed one page. Seriously. No need to thank every single person.
 
