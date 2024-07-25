@@ -554,7 +554,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Synopsis
+    title: P
     text: >+
       This section will describe your project in more technical terms.
 
