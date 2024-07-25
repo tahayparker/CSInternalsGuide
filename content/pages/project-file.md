@@ -802,7 +802,7 @@ sections:
 
 
       <br>
-      
+
       All students MUST use the same color of binding.
 
       Once you have bound the file, you are done. Congratulations! Submit the file for final checks.
