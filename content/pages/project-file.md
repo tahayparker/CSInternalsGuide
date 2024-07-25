@@ -858,7 +858,7 @@ sections:
       The theme and the syntax highlighting will be copied as well. Looks nice, makes for a good first impression. Also "hides" errors because the examiner would be wow-ed by colors.
       
       
-      I personally used [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) after messing around a bit with the theme files to change a few colors. But you could use 
+      I personally used [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) after messing around a bit with the theme files to change a few colors. But you could use it as it 
 
 
 
