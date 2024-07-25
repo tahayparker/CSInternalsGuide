@@ -357,7 +357,8 @@ sections:
         textAlign: left
 
 
-ddTitleSuffix: true
+addTitleSuffix: true
+
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
