@@ -152,7 +152,7 @@ sections:
       * [System Description](#sysdesc)
 
 
-      * [Program Source Code](#co)
+      * [Program Source Code](#code)
 
 
       * Program Output
