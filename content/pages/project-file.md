@@ -697,7 +697,12 @@ sections:
     variant: variant-a
     title: Bibliography / References
     text: >+
-      Write a brief conclusion about your project.
+Include all the sources you have used to make your project.
+
+Include the names of the books you have used.
+
+Two books which you can write are:
+
 
     elementId: 'bibliography'
     styles:
