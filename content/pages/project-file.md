@@ -912,6 +912,7 @@ sections:
 
       ```
       import os
+      
       import sys
       os.system("cls") OR os.system("clear") (ON MACS/LINUX ONLY)
       print("""
