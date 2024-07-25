@@ -89,13 +89,16 @@ sections:
     variant: variant-b
     title: Reporting Errors
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      If you find any errors in this site, please report them by [contacting
+      me](https://tahayparker.vercel.app/contact)
+
+
+      Alternatively, if you know how Git and GitHub works, make the required
+      changes in the required files and submit a pull request.
+
+
+      Thank you for improving this site!
     elementId: ''
     styles:
       self:
