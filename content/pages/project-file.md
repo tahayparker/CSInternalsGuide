@@ -482,6 +482,8 @@ sections:
       
       
       * Comment: When adding functions, include any parameters you have included in the function header. Example: `connect(host, user, password, database)`
+      
+      
       * Variables - Any and all variables you may have used. This includes variables such as `i` which is used in `for i in ...`
 
 
