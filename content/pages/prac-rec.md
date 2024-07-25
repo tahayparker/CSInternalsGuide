@@ -227,23 +227,29 @@ sections:
     variant: variant-a
     title: Python
     text: >
-      Pretty straighforward, nothing to worry about.
+      There should be at least 20 to 25 Python programs in your practical record.
+
+These programs should be copy-pasted. NO SCREENSHOTS.
+
+Ensure that the programs are part of the portions.
+
+Ensure that the programs are numbered.
+
+The format for each question is as follows:
+
+Experiment No. (number)
+Aim: (insert aim here)
+Code
+(insert code here)
+Output
+(insert output here)
+Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
+
+Use Google Fonts to find monospaced fonts.
+
+Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
 
 
-      Write a page thanking your teacher, your parents, your friends, and anyone
-      else who helped you.
-
-
-      Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about
-      half a page long.
-
-
-      *Pro Tip: [Claude AI](https://claude.ai) writes stuff pretty naturally if
-      you tell it to. [Contact me](https://tahayparker.vercel.app/contact/) if
-      you want the prompt I use.*
-
-
-      Do not exceed one page. Seriously. No need to thank every single person.
     elementId: acknowledgement
     styles:
       self:
