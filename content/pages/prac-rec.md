@@ -312,7 +312,10 @@ sections:
 
       * (qs number). (Question)
       
+      
       * (SQL Query)
+      
+      
       * (Output)
       
       
