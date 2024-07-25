@@ -424,7 +424,7 @@ sections:
       This section will describe your project in more technical terms.
 
 
-      
+      Write a
 
     elementId: 'synopsis'
     styles:
