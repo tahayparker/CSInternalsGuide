@@ -45,7 +45,7 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "altText": ""
             }
         ],
         "copyrightText": "Made by [Taha Parker](https://tahayparker.vercel.app/)\n",
