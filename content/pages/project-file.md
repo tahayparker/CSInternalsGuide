@@ -135,6 +135,7 @@ sections:
       Your file should contain the following headers:
 
       * Cover Page
+      
       Certificate
       Acknowledgement
       Introduction
