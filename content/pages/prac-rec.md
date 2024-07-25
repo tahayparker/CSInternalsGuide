@@ -302,21 +302,18 @@ sections:
     variant: variant-a
     title: MySQL
     text: >
-      Write a brief introduction about your project.
+      You may or may not have started this when you started learning MySQL.
+
+This should contain around 50 to 70 SQL questions, from various concepts learnt throughout the whole SQL journey.
+
+The format is as follows:
+
+(qs number). (Question)
+(SQL Query)
+(Output)
+Ensure that the SQL queries and outputs are in a monospace font (Courier New, Consolas, etc.)
 
 
-      This is more of marketing than technical talk.
-
-
-      Write about your project, and what it does, without going into the
-      technical details at all.
-
-
-      You can even "create" a problem and then propose your project as a
-      solution to the problem.
-
-
-      Do not exceed one page. Shouldn't get too boring.
     elementId: intro
     styles:
       self:
