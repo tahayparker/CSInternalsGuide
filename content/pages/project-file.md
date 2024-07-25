@@ -788,7 +788,7 @@ elementId: 'bibliography'
 
       When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
 
-  Use a good quality printer. The print should be clear and readable.
+      Use a good quality printer. The print should be clear and readable.
 
 If your parent's company has a printer, try asking if they can print. Otherwise, go to a stationery shop. Bargain as much as you can. Should be around 1 AED for 5 pages or so.
 
