@@ -502,7 +502,7 @@ sections:
       * Output of `desc table-name`
 
 
-      Continue for all tables in 
+      Continue for all tables in the database
     elementId: 'synopsis'
     styles:
       self:
