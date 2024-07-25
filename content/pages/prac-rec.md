@@ -245,7 +245,7 @@ sections:
       * Experiment No. (number)
       * Aim: (insert aim here)
       * Code
-      (insert code here)
+        (insert code here)
       Output
       (insert output here)
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
