@@ -429,17 +429,6 @@ sections:
       I personally used [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) after messing around a bit with the theme files to change a few colors. But you could use it as it is, or get a different theme. Just make sure it's light.
 
 
-
-      <br>
-
-      Use [GitHub Copilot](https://github.com/features/copilot) to help you write code. Helps save time.
-
-      Free for students who have applied for the [GitHub Education Pack](https://education.github.com/discount_requests/application) . You'll have to just prove that you're a student. Recommend using the school email to sign up, the approval is faster.
-
-
-      <br>
-
-      Use this [ANSI Character Generator](https://patorjk.com/software/taag/) to create cool looking titles that you can display when the program starts.
     elementId: ''
     styles:
       self:
