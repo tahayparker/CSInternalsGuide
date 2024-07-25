@@ -918,6 +918,8 @@ sections:
       
       
       os.system("cls") OR os.system("clear") (ON MACS/LINUX ONLY)
+      
+      
       print("""
       Program Title in ANSI Characters
       ████████ ██ ████████ ██      ███████ 
