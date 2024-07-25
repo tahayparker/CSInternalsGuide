@@ -1060,7 +1060,7 @@ sections:
         label: Let's go!
         altText: ''
         url: >-
-          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Practical-2023
+          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Project%20Files
         showIcon: true
         icon: arrowRight
         iconPosition: right
