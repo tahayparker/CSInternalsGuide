@@ -103,8 +103,8 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-6
-          - pb-6
+          - pt-16
+          - pb-16
           - pl-4
           - pr-4
         justifyContent: center
