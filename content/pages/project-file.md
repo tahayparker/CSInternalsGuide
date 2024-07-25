@@ -493,7 +493,7 @@ sections:
       Include the following:
       
 
-      * D
+      * Database 
     elementId: 'synopsis'
     styles:
       self:
