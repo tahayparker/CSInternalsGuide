@@ -152,7 +152,7 @@ sections:
       
       * Conclusion
       
-      Bibliography
+      * Bibliography
 
 *   Store-fronts (Movie store, Bookstore, etc.)
 
