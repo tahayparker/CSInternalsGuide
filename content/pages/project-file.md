@@ -799,7 +799,7 @@ elementId: 'bibliography'
 
       Once you have bound the file, you are done. Congratulations! Submit the file for final checks.
 
-  While there shouldn't be any reason for the teacher to make corrections now (if the file was previously approved), it is still a good idea to get it checked once and correct any errors that may be pointed out.
+      While there shouldn't be any reason for the teacher to make corrections now (if the file was previously approved), it is still a good idea to get it checked once and correct any errors that may be pointed out.
 elementId: ''
     styles:
       self:
