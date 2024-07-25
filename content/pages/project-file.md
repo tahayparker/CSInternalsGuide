@@ -334,7 +334,7 @@ sections:
       Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
 
 
-      Pro Tip: [Claude AI](https)
+      Pro Tip: [Claude AI](https://claude)
       Do not exceed one page. Seriously. No need to thank every single person.
     elementId: 'certificate'
     styles:
