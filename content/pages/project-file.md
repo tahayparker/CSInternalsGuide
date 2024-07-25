@@ -866,7 +866,7 @@ sections:
 
       Use [GitHub Copilot](https://github.com/features/copilot) to help you write code. Helps save time.
 
-      Free for students who have applied for the GitHub Education Pack . ou'll have to just prove that you're a student.
+      Free for students who have applied for the GitHub Education Pack . You'll have to just prove that you're a student.
 
 
 
