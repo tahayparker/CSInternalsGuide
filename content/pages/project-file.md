@@ -868,7 +868,7 @@ sections:
 
       Free for students who have applied for the [GitHub Education Pack](https://education.github.com/discount_requests/application) . You'll have to just prove that you're a student. Recommend using the school email to sign up, the approval is faster.
 
-  
+      
 
 
 
