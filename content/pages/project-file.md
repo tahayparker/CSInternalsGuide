@@ -1054,7 +1054,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      To see sa
+      To see sampl
     actions:
       - type: Button
         label: Let's go!
