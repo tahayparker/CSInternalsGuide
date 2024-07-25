@@ -163,6 +163,7 @@ sections:
 
       * Bibliography
 
+
       
     elementId: ''
     styles:
