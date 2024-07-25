@@ -990,7 +990,8 @@ sections:
       # All User Defined Functions
 
       def function-name():
-      # Function Code
+
+# Function Code
 
 
       # Main Menu
