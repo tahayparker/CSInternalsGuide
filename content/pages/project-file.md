@@ -1051,29 +1051,42 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - type: TextSection
+  - type: CtaSection
+    title: Samples
+    text: |
+      QPs from AY 2022-2023 can be found by clicking on the button.
+    actions:
+      - type: Button
+        label: Let's go!
+        altText: ''
+        url: >-
+          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Practical-2023
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
-    variant: variant-a
-    title: Code Formatting Guidelines
-    text: >+
-      Format your Python code in the following format, so that it can be run on any computer with minimal to no changes to the code.
+    backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
         width: narrow
         padding:
-          - pt-6
-          - pb-6
+          - pt-16
+          - pb-16
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
+      actions:
+        justifyContent: flex-start
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
