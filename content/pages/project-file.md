@@ -428,7 +428,6 @@ sections:
 
 
       This can be one to two pages long.
-
     elementId: 'synopsis'
     styles:
       self:
