@@ -501,7 +501,8 @@ sections:
 
       * Output of `desc table-name`
 
-      
+
+      C
     elementId: 'synopsis'
     styles:
       self:
