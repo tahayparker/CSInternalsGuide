@@ -76,14 +76,6 @@ sections:
 
       Ensure that the page numbers are within the margins.
 
-      *   Store-fronts (Movie store, Bookstore, etc.)
-
-
-      *   Management (Inventory Management, Employee Management, etc.)
-
-
-      *   Billing Systems (Electricity Billing, etc.)
-
     elementId: ''
     styles:
       self:
