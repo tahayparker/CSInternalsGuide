@@ -499,7 +499,9 @@ sections:
       * Table 1: `table-name`
 
 
-      * Output of `desc table-name
+      * Output of `desc table-name`
+
+      
     elementId: 'synopsis'
     styles:
       self:
