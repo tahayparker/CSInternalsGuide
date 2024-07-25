@@ -1012,7 +1012,7 @@ sections:
 
       `sys.exit` exits the program if there is an error in the code.
 
-      cursor.execute("CREATE TABLE IF NOT EXISTS") creates the tables from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
+      `cursor.execute("CREATE TABLE IF NOT EXISTS") creates the tables from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
 
       cursor.execute("INSERT INTO") inserts data into the table from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
 
