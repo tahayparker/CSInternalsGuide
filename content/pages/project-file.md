@@ -786,6 +786,7 @@ sections:
 
       Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
 
+
       <br>
       
       When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
