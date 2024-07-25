@@ -325,7 +325,6 @@ sections:
     variant: variant-a
     title: Acknowledgement
     text: >+
-
       This is the second page of your record.
 
 
