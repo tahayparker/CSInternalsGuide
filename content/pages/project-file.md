@@ -830,7 +830,7 @@ elementId: 'bibliography'
       
       
       * https://github.com/
-elementId: 'bibliography'
+elementId: ''
     styles:
       self:
         height: auto
