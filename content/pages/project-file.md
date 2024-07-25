@@ -212,7 +212,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Cover Pag
+    title: Cover Page
     text: >+
       Your file should contain the following headers:
 
