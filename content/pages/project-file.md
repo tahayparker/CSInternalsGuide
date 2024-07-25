@@ -795,7 +795,7 @@ elementId: 'bibliography'
       Once you have printed the file, bind it. Spiral binding is the only binding accepted. Color should be as decided by your teacher.
 
 
-All students MUST use the same color of binding.
+      All students MUST use the same color of binding.
 
 Once you have bound the file, you are done. Congratulations! Submit the file for final checks.
 
