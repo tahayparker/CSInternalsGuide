@@ -921,6 +921,8 @@ sections:
       
       
       print("""
+      
+      
       Program Title in ANSI Characters
       ████████ ██ ████████ ██      ███████ 
         ██    ██    ██    ██      ██      
