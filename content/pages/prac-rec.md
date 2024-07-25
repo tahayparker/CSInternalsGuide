@@ -52,9 +52,9 @@ sections:
     text: >+
       Your file should contain the following headers:
 
-  Cover Page
-Certificate
-Python programs (questions to be listed in index)
+      Cover Page
+      Certificate
+  Python programs (questions to be listed in index)
 MySQL programs
 Your file should have borders on all pages. The borders should be formal. Consider selecting solid or double borders, preferably in black.
 
