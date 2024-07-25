@@ -134,7 +134,8 @@ sections:
     text: >+
       Your file should contain the following headers:
 
-      *   Store-fronts (Movie store, Bookstore, etc.)
+
+*   Store-fronts (Movie store, Bookstore, etc.)
 
 
       *   Management (Inventory Management, Employee Management, etc.)
