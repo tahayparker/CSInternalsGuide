@@ -76,7 +76,6 @@ sections:
 
       Ensure that the page numbers are within the margins.
 
-
       *   Store-fronts (Movie store, Bookstore, etc.)
 
 
