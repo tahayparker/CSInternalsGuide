@@ -145,9 +145,13 @@ sections:
       Synopsis
       
       System Description
+      
       Program Source Code
+      
       Program Output
+      
       Conclusion
+      
       Bibliography
 
 *   Store-fronts (Movie store, Bookstore, etc.)
