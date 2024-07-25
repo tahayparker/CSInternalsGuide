@@ -325,8 +325,6 @@ sections:
     variant: variant-a
     title: Acknowledgement
     text: >+
-      ***This page must be provided by your teacher.***
-
 
       This is the second page of your record.
 
