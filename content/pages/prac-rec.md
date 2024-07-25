@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Pra
+title: Practical 
 sections:
   - type: TextSection
     colors: colors-f
