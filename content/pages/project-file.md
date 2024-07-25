@@ -250,6 +250,60 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Cover Page
+    text: >+
+      ***This page must be provided by your teacher.***
+
+
+      This is the first page of your record.
+
+
+      Contains the title ("Project Record"), the academic year, the name of your project (three to four words max), and a place for your details.
+
+
+      The page numbers for the record start from the cover page.
+
+
+      Ensure logos and other details are within the margins.
+
+
+      ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
+
+
+      ***DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.***
+    elementId: 'cover'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-16
+          - pb-16
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 addTitleSuffix: true
 colors: colors-a
