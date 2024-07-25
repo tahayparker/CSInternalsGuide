@@ -746,7 +746,6 @@ sections:
       
       
       * https://github.com/
-
 elementId: 'bibliography'
     styles:
       self:
