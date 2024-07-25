@@ -460,7 +460,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      To see sample records from AY 2022-2023, click on the buttons
+      To see sample records from AY 2022-2023, click on the buttons.
     actions:
       - type: Button
         label: Practical Files
