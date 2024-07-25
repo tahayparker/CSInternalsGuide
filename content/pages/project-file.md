@@ -864,7 +864,11 @@ sections:
 
       <br>
 
-      Use [GitHub Copilot](https://github.com/features/copilot) to 
+      Use [GitHub Copilot](https://github.com/features/copilot) to help you write code. Helps save time.
+
+Free for students, but you must apply for the GitHub Education Pack . It's free, and at max you'll have to just prove that you're a student.
+
+
 
 
 
