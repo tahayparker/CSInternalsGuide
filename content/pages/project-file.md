@@ -445,6 +445,100 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: System Description
+    text: >+
+      ### Python
+      
+
+      Include the following:
+
+
+      * File Name - Usually `project.py` or `your-project-name.py`
+      * Import statements - All the modules that you have imported.
+      * Built-in functions - such as `print()`, `connect()`, `append()`, etc. Functions imported from modules go here. Include any and all functions.
+      * User-defined functions - Any functions you have made yourself should be included here.
+      * Comment: When adding functions, include any parameters you have included in the function header. Example: `connect(host, user, password, database)`
+      * Variables - Any and all variables you may have used. This includes variables such as `i` which is used in `for i in ...`
+
+
+
+
+
+    elementId: 'synopsis'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Synopsis
+    text: >+
+      This section will describe your project in more technical terms.
+
+
+      Write about the various functions of your project, briefly explaining what the main ones do.
+
+
+      This can be one to two pages long.
+    elementId: 'synopsis'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 addTitleSuffix: true
 colors: colors-a
