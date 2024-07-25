@@ -134,7 +134,6 @@ sections:
     text: >+
       Your file should contain the following headers:
 
-our file should contain the following headers:
 
 Cover Page
 Certificate
