@@ -563,7 +563,7 @@ sections:
 
 
       This can be one to two pages long.
-    elementId: 'synopsis'
+    elementId: 'sour'
     styles:
       self:
         height: auto
