@@ -358,7 +358,6 @@ sections:
 
 
 addTitleSuffix: true
-
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
