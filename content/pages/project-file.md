@@ -564,7 +564,7 @@ sections:
 
       It is recommended to use a monospace font, such as Consolas or any other font from the Internet.
 
-Use Google Fonts to find monospaced fonts.
+      Use Google Fonts to find monospaced fonts.
     elementId: 'sourcecode'
     styles:
       self:
