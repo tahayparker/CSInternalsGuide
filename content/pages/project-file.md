@@ -721,7 +721,7 @@ sections:
       MySQL Documentation - https://dev.mysql.com/doc/refman/8.0/en/
 
 
-  Python Documentation - https://docs.python.org/3/
+      Python Documentation - https://docs.python.org/3/
 
 Some more sites you can include:
 
