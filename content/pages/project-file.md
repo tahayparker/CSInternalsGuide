@@ -781,7 +781,7 @@ elementId: 'bibliography'
     variant: variant-a
     title: Finalizing & Printing
     text: >+
-  Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
+      Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
 
 Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
 
