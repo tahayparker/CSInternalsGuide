@@ -1010,7 +1010,7 @@ sections:
 
       Instead of `pip install`, you can use `pip3 install -qqq --disable-pip-version-check --no-cache-dir --no-color --no-warn-conflicts --user --no-python-version-warning --no-input --no-warn-script-location` to hide the installation process from the user.
 
-      sys.exit` exits the program if there is an error in the code.
+      `sys.exit` exits the program if there is an error in the code.
 
       cursor.execute("CREATE TABLE IF NOT EXISTS") creates the tables from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
 
