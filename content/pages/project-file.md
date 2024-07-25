@@ -422,6 +422,7 @@ sections:
     title: Synopsis
     text: >+
 
+
     elementId: 'synopsis'
     styles:
       self:
