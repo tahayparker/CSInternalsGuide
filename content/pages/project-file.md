@@ -233,7 +233,6 @@ sections:
 
 
       DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.
-
     elementId: 'cover'
     styles:
       self:
