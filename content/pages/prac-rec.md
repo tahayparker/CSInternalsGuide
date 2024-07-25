@@ -59,7 +59,7 @@ sections:
       * [Certificate](#certificate)
       
       
-      * [Python programs (questions to be listed in index)
+      * [Python programs (questions to be listed in index)]
       
       
       * MySQL programs
