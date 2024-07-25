@@ -1056,7 +1056,7 @@ sections:
     text: |
       To see sample projects from AY 2022-2023, click on the button.
     actions:
-      - type: L
+      - type: Link
         label: Let's go!
         altText: ''
         url: >-
