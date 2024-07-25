@@ -845,6 +845,7 @@ sections:
     variant: variant-a
     title: Tips
     text: >+
+      
       Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
 
 
