@@ -307,6 +307,7 @@ sections:
       
       This should contain around 50 to 70 SQL questions, from various concepts learnt throughout the whole SQL journey.
 
+      
       The format is as follows:
 
       (qs number). (Question)
