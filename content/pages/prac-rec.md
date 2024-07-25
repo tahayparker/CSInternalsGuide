@@ -485,7 +485,16 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      
+            - type: Button
+        label: Let's go!
+        altText: ''
+        url: >-
+          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Project%20Files
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
