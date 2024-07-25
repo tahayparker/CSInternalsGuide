@@ -717,6 +717,7 @@ sections:
 
       You can always include Python and MySQL documentation in the "Sites Referred" section.
 
+
 MySQL Documentation - https://dev.mysql.com/doc/refman/8.0/en/
 
 Python Documentation - https://docs.python.org/3/
