@@ -225,7 +225,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: P
+    title: Python
     text: >
       Pretty straighforward, nothing to worry about.
 
