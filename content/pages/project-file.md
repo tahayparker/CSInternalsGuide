@@ -325,13 +325,13 @@ sections:
     variant: variant-a
     title: Acknowledgement
     text: >+
-Pretty straighforward, nothing to worry about.
+      Pretty straighforward, nothing to worry about.
 
-Write a page thanking your teacher, your parents, your friends, and anyone else who helped you.
+      Write a page thanking your teacher, your parents, your friends, and anyone else who helped you.
 
-Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
+      Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
 
-Do not exceed one page. Seriously. No need to thank every single person.
+      Do not exceed one page. Seriously. No need to thank every single person.
 
     elementId: 'certificate'
     styles:
