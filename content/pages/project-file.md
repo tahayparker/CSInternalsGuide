@@ -905,7 +905,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Code Form
+    title: Code Formatting Fuid
     text: >+
       Use [Visual Studio Code](https://code.visualstudio.com/) to write your project.
 
