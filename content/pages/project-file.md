@@ -554,7 +554,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Program Sour
+    title: Program Source 
     text: >+
       This section will describe your project in more technical terms.
 
