@@ -1002,7 +1002,7 @@ sections:
 
       ```
       
-      `import os`,sys imports special modules that help connect with the terminal of your system.
+      `import os, sys imports special modules that help connect with the terminal of your system.
 
       `os.system("cls")` / `os.system("clear")` clears the terminal so that all the messy input/output/errors on the screen are cleared off.
 
