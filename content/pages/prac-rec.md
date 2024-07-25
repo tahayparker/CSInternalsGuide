@@ -250,6 +250,8 @@ sections:
       
       * Code
           (insert code here)
+      
+      
       * Output
           (insert output here)
       
