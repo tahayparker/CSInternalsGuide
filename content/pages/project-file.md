@@ -273,13 +273,13 @@ sections:
 
       This is the second page of your record.
 
-This page must be numbered as well.
+    This page must be numbered as well.
 
-Contains a certificate stating that the project is your own work and stuff.
+    Contains a certificate stating that the project is your own work and stuff.
 
-Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
+    Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
 
-Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
+    Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
 
 
 
