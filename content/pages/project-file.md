@@ -974,7 +974,7 @@ sections:
       sys.exit("Error importing modules!")
 
 
-      
+      \\
       # MySQL Connection Code
       con =
       cursor =
