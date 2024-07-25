@@ -648,7 +648,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Program Output
+    title: C
     text: >+
       The output of the program.
 
