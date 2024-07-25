@@ -259,7 +259,7 @@ sections:
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
 
-      Use [Google Fonts to find monospaced fonts.
+      Use [Google Fonts] to find monospaced fonts.
 
 
       Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
