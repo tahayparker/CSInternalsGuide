@@ -335,7 +335,6 @@ sections:
 
 
       Do not exceed one page. Seriously. No need to thank every single person.
-
     elementId: 'certificate'
     styles:
       self:
