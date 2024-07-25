@@ -121,7 +121,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-36
+          - pt-6
           - pb-6
           - pl-4
           - pr-4
@@ -203,7 +203,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-36
+          - pt-6
           - pb-6
           - pl-4
           - pr-4
@@ -257,7 +257,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-36
+          - pt-6
           - pb-6
           - pl-4
           - pr-4
@@ -314,7 +314,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-36
+          - pt-6
           - pb-6
           - pl-4
           - pr-4
@@ -362,7 +362,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-36
+          - pt-6
           - pb-6
           - pl-4
           - pr-4
@@ -410,7 +410,7 @@ sections:
       self:
         width: wide
         padding:
-          - pt-36
+          - pt-6
           - pb-6
           - pl-4
           - pr-4
