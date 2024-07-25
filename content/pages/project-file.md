@@ -992,8 +992,7 @@ sections:
       
       def function-name():
 
-      
-# Function Code
+      # Function Code
 
 
       # Main Menu
