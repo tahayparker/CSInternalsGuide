@@ -697,7 +697,7 @@ sections:
     variant: variant-a
     title: Bibliography / References
     text: >+
-Include all the sources you have used to make your project.
+  Include all the sources you have used to make your project.
 
 Include the names of the books you have used.
 
