@@ -279,7 +279,9 @@ sections:
 
       Contains a certificate stating that the project is your own work and stuff.
 
+
       Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
+
 
       Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
 
