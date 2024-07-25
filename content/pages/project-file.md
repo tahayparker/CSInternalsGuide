@@ -707,7 +707,9 @@ sections:
 
 
       * Computer Science with Python Class XII by Preeti Arora
-      * Computer Science with Python Class XI by Preeti Arora
+
+
+* Computer Science with Python Class XI by Preeti Arora
 
 
 Include the links to the websites you have used.
