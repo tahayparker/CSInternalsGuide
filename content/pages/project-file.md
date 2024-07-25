@@ -679,7 +679,6 @@ sections:
       text:
         textAlign: left
 
-
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
