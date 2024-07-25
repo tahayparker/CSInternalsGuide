@@ -229,6 +229,7 @@ sections:
     text: >
       There should be at least 20 to 25 Python programs in your practical record.
 
+
       These programs should be copy-pasted. NO SCREENSHOTS.
 
       Ensure that the programs are part of the portions.
