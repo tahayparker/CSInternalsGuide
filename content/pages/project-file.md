@@ -864,7 +864,7 @@ sections:
 
       <br>
 
-      Use [GitHub Copilot](https://github.com/features/copilot)
+      Use [GitHub Copilot](https://github.com/features/copilot) 
 
 
 
