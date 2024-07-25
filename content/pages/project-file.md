@@ -421,19 +421,7 @@ sections:
     variant: variant-a
     title: Synopsis
     text: >+
-      Write a brief introduction about your project.
 
-
-      This is more of marketing than technical talk.
-
-
-      Write about your project, and what it does, without going into the technical details at all.
-
-
-      You can even "create" a problem and then propose your project as a solution to the problem.
-
-
-      Do not exceed one page. Shouldn't get too boring.
     elementId: 'synopsis'
     styles:
       self:
