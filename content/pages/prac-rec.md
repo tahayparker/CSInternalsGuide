@@ -485,7 +485,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-          - type: Button
+      - type: Button
         label: Let's go!
         altText: ''
         url: >-
