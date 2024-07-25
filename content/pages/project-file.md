@@ -7,9 +7,10 @@ sections:
     variant: variant-a
     title: Project File
     subtitle: 8 marks
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      A printed, binded document.
+
+      Contains your project written in pure Python with connectivity to MySQL.
     elementId: ''
     styles:
       self:
