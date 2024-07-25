@@ -50,7 +50,7 @@ sections:
     variant: variant-a
     title: The Record
     text: >+
-Your file should contain the following headers:
+    Your file should contain the following headers:
 
 Cover Page
 Certificate
