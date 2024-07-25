@@ -746,6 +746,73 @@ sections:
       
       
       * https://github.com/
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Bibliography / References
+    text: >+
+      Include all the sources you have used to make your project.
+
+
+      Include the names of the books you have used.
+
+
+      Two books which you can write are:
+
+
+      * Computer Science with Python Class XII by Preeti Arora
+
+
+      * Computer Science with Python Class XI by Preeti Arora
+
+
+      Include the links to the websites you have used.
+
+
+      You can always include Python and MySQL documentation in the "Sites Referred" section.
+
+
+      MySQL Documentation - https://dev.mysql.com/doc/refman/8.0/en/
+
+
+      Python Documentation - https://docs.python.org/3/
+
+
+      Some more sites you can include:
+
+
+      * https://www.w3schools.com/python/
+
+
+      * https://www.w3schools.com/sql/
+      
+      
+      * https://www.geeksforgeeks.org/python-programming-language/
+      
+      
+      * https://www.geeksforgeeks.org/sql-tutorial/
+      
+      
+      * https://stackoverflow.com/
+      
+      
+      * https://pypi.org/
+      
+      
+      * https://github.com/
 
 elementId: 'bibliography'
     styles:
