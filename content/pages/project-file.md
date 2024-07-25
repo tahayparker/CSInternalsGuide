@@ -134,9 +134,6 @@ sections:
     text: >+
       Your file should contain the following headers:
 
-
-
-
       The project must be written in Python and must use MySQL connectivity.
 
 
