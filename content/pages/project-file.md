@@ -470,7 +470,11 @@ sections:
 
 
       * File Name - Usually `project.py` or `your-project-name.py`
+      
+      
       * Import statements - All the modules that you have imported.
+      
+      
       * Built-in functions - such as `print()`, `connect()`, `append()`, etc. Functions imported from modules go here. Include any and all functions.
       * User-defined functions - Any functions you have made yourself should be included here.
       * Comment: When adding functions, include any parameters you have included in the function header. Example: `connect(host, user, password, database)`
@@ -482,7 +486,7 @@ sections:
 
       Include the following:
       
-      
+
       * D
     elementId: 'synopsis'
     styles:
