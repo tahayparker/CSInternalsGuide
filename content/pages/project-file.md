@@ -45,13 +45,58 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      This is the only project that you will have to do in your entire year.
+
+
+      The project must be written in Python and must use MySQL connectivity.
+
+
+      The program must be a Menu-Driven Program.
+
+
+      On the Python side, there should be at least 3 - 4 user-defined functions.
+
+
+      On the MySQL side, there should be at least 2 tables. You should also use
+      at least 4 MySQL functions, such as UPDATE, INSERT, DELETE, SELECT, etc.
+
+
+
+
+      There is no limit to what you can do in your project, however, you are
+      limited to the usage of only Python and MySQL.
+
+
+      This means you cannot integrate your project with other languages such as
+      Flask.
+
+
+
+      You are free to create as many user-defined functions as you want, and
+      import as many modules you want.
+
+
+      You may also create as many tables in MySQL as you see fit.
+
+
+
+
+      Considering the restraints, most projects end up being variations of one
+      another, but unique in their own way.
+
+
+      Some broad categories include:
+
+
+      *   Store-fronts (Movie store, Bookstore, etc.)
+
+
+      *   Management (Inventory Management, Employee Management, etc.)
+
+
+      *   Billing Systems (Electricity Billing, etc.)
+
     elementId: ''
     styles:
       self:
