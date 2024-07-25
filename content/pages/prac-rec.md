@@ -427,7 +427,6 @@ sections:
       
       
       I personally used [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) after messing around a bit with the theme files to change a few colors. But you could use it as it is, or get a different theme. Just make sure it's light.
-
     elementId: ''
     styles:
       self:
