@@ -249,7 +249,6 @@ Use Google Fonts to find monospaced fonts.
 
 Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
 
-
     elementId: acknowledgement
     styles:
       self:
