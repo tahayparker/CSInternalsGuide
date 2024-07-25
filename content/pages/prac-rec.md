@@ -457,19 +457,6 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-6
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - type: CtaSection
     title: Samples
     text: |
