@@ -218,30 +218,6 @@ sections:
 
       * [Cover Page](#cover)
 
-
-      * Certificate
-
-
-      * Acknowledgement
-
-
-      * Introduction
-
-
-      * Synopsis
-
-
-      * System Description
-
-
-      * Program Source Code
-
-
-      * Program Output
-
-
-      * Conclusion
-
     elementId: ''
     styles:
       self:
