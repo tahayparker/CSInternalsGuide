@@ -476,7 +476,7 @@ sections:
       To see sample records from AY 2022-2023, click on the button
     actions:
       - type: Button
-        label: Let's go!
+        label: Pr!
         altText: ''
         url: >-
           https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Project%20Files
