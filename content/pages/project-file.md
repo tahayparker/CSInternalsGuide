@@ -325,25 +325,14 @@ sections:
     variant: variant-a
     title: Acknowledgement
     text: >+
-      This is the second page of your record.
+Pretty straighforward, nothing to worry about.
 
+Write a page thanking your teacher, your parents, your friends, and anyone else who helped you.
 
-      This page must be numbered as well.
+Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
 
+Do not exceed one page. Seriously. No need to thank every single person.
 
-      Contains a certificate stating that the project is your own work and stuff.
-
-
-      Ensure that the teacher's name is typed, preferably in another color, and is spelled exactly as stated.
-
-
-      Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
-
-
-      ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
-
-
-      ***DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.***
     elementId: 'certificate'
     styles:
       self:
