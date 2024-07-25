@@ -672,6 +672,46 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Conclusion
+    text: >+
+      Write a brief conclusion about your project.
+
+      This is a mix of the introduction and the synopsis.
+
+      A page for the conclusion should suffice.
+    elementId: 'conclusion'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 addTitleSuffix: true
 colors: colors-a
