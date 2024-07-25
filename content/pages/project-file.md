@@ -688,7 +688,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Bibliography / R
+    title: Bibliography / Refe
     text: >+
       Write a brief conclusion about your project.
 
