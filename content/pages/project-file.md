@@ -905,7 +905,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Tips
+    title: C
     text: >+
       Use [Visual Studio Code](https://code.visualstudio.com/) to write your project.
 
