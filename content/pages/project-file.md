@@ -951,7 +951,11 @@ sections:
       
       
       os.system("pip install #any other modules you used# ")
+      
+      
       except:
+      
+      
       sys.exit("Error installing modules!")
       try:
       import mysql.connector
