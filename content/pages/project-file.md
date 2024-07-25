@@ -978,6 +978,8 @@ sections:
       
       
       con =
+      
+      
       cursor =
 
       # MySQL Table Creation
