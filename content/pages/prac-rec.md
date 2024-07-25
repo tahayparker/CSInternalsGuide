@@ -242,7 +242,7 @@ sections:
       The format for each question is as follows:
 
 
-        Experiment No. (number)
+      Experiment No. (number)
       Aim: (insert aim here)
       Code
       (insert code here)
