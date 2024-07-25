@@ -847,6 +847,7 @@ sections:
     text: >+
       Use Visual Studio Code to write your project.
 
+
       It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
 
 
