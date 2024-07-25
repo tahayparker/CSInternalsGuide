@@ -586,6 +586,54 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Program Source Code
+    text: >+
+      This is the entire Python program that you have written.
+
+
+      **Code must be COPY-PASTED. NO SCREENSHOTS.**
+
+
+      Ensure that the program is properly indented.
+
+
+      It is recommended to use a monospace font, such as `Consolas` or any other font from the Internet.
+
+
+      Use [Google Fonts](https://fonts.google.com) to find monospaced fonts.
+    elementId: 'sourcecode'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 addTitleSuffix: true
 colors: colors-a
