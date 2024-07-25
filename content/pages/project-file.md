@@ -122,7 +122,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -204,7 +204,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -258,7 +258,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -315,7 +315,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -363,7 +363,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
@@ -411,7 +411,7 @@ sections:
         width: wide
         padding:
           - pt-36
-          - pb-36
+          - pb-6
           - pl-4
           - pr-4
         justifyContent: center
