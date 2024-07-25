@@ -493,7 +493,7 @@ sections:
       Include the following:
       
 
-      * Database name 
+      * Database name - Usually 
     elementId: 'synopsis'
     styles:
       self:
