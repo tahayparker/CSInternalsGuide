@@ -1006,7 +1006,7 @@ sections:
 
       `os.system("cls")` / `os.system("clear")` clears the terminal so that all the messy input/output/errors on the screen are cleared off.
 
-      os.system runs pip to install modules that you use so that you don't have to manually install them.
+      `os.system runs pip to install modules that you use so that you don't have to manually install them.
 
       Instead of pip install, you can use pip3 install -qqq --disable-pip-version-check --no-cache-dir --no-color --no-warn-conflicts --user --no-python-version-warning --no-input --no-warn-script-location  to hide the installation process from the user.
 
