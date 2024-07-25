@@ -138,7 +138,7 @@ sections:
       
       * Certificate
       
-      Acknowledgement
+      * Acknowledgement
       
       Introduction
       
