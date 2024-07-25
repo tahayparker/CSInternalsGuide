@@ -746,7 +746,8 @@ sections:
       
       
       * https://github.com/
-    elementId: 'bibliography'
+
+elementId: 'bibliography'
     styles:
       self:
         height: auto
