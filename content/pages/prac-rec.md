@@ -312,8 +312,6 @@ sections:
       (SQL Query)
       (Output)
       Ensure that the SQL queries and outputs are in a monospace font (Courier New, Consolas, etc.)
-
-
     elementId: intro
     styles:
       self:
