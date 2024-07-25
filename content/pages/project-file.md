@@ -845,7 +845,11 @@ sections:
     variant: variant-a
     title: Tips
     text: >+
-      
+      Use Visual Studio Code to write your project.
+
+It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
+
+
       Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
 
 
