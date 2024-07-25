@@ -140,9 +140,9 @@ sections:
       
       * Acknowledgement
       
-      Introduction
+      * Introduction
       
-      Synopsis
+      * Synopsis
       
       System Description
       
