@@ -14,7 +14,7 @@ sections:
       Much much easier than the Project Record, considering it's just copy paste.
 
 
-Two parts: Python and MySQL
+      Two parts: Python and MySQL
 
     elementId: ''
     styles:
