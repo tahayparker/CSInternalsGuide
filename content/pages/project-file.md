@@ -434,7 +434,7 @@ sections:
 
 
       Do not exceed one page. Shouldn't get too boring.
-    elementId: 'intro'
+    elementId: 'synopsis'
     styles:
       self:
         height: auto
