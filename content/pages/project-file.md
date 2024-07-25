@@ -783,7 +783,7 @@ elementId: 'bibliography'
     text: >+
       Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
 
-Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
+      Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
 
 
 When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
