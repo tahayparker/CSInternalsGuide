@@ -271,7 +271,7 @@ sections:
       ***This page must be provided by your teacher.***
 
 
-This is the second page of your record.
+    This is the second page of your record.
 
 This page must be numbered as well.
 
