@@ -311,6 +311,8 @@ sections:
       (qs number). (Question)
       (SQL Query)
       (Output)
+      
+      
       Ensure that the SQL queries and outputs are in a monospace font (Courier New, Consolas, etc.)
     elementId: intro
     styles:
