@@ -214,7 +214,7 @@ sections:
     variant: variant-a
     title: Cover Page
     text: >+
-      ***This page must be provided by your teacher.**
+      ***This page must be provided by your teacher.***
 
 
       This is the first page of your record.
