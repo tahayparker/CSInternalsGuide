@@ -311,6 +311,7 @@ sections:
       The format is as follows:
 
       * (qs number). (Question)
+      
       * (SQL Query)
       * (Output)
       
