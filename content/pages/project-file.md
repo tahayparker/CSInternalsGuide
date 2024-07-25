@@ -140,7 +140,7 @@ sections:
       * [Certificate](#certificate)
 
 
-      * [Acknowledgement](#ack)
+      * [Acknowledgement](#acknowledge)
 
 
       * Introduction
