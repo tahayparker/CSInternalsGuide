@@ -911,45 +911,45 @@ sections:
 
       ```
       import os
-import sys
-os.system("cls") OR os.system("clear") (ON MACS/LINUX ONLY)
-print("""
-Program Title in ANSI Characters
-████████ ██ ████████ ██      ███████ 
-   ██    ██    ██    ██      ██      
-   ██    ██    ██    ██      █████   
-   ██    ██    ██    ██      ██      
-   ██    ██    ██    ███████ ███████ 
+      import sys
+      os.system("cls") OR os.system("clear") (ON MACS/LINUX ONLY)
+      print("""
+      Program Title in ANSI Characters
+      ████████ ██ ████████ ██      ███████ 
+        ██    ██    ██    ██      ██      
+        ██    ██    ██    ██      █████   
+        ██    ██    ██    ██      ██      
+        ██    ██    ██    ███████ ███████ 
 
-""")
-try:
-os.system("pip install mysql-connector-python")
-os.system("pip install #any other modules you used# ")
-except:
-sys.exit("Error installing modules!")
-try:
-import mysql.connector
-import #any other modules you used#
-except:
-sys.exit("Error importing modules!")
+      """)
+      try:
+      os.system("pip install mysql-connector-python")
+      os.system("pip install #any other modules you used# ")
+      except:
+      sys.exit("Error installing modules!")
+      try:
+      import mysql.connector
+      import #any other modules you used#
+      except:
+      sys.exit("Error importing modules!")
 
-# MySQL Connection Code
-con =
-cursor =
+      # MySQL Connection Code
+      con =
+      cursor =
 
-# MySQL Table Creation
-cursor.execute("CREATE TABLE IF NOT EXISTS table-name (column-name data-type);")
+      # MySQL Table Creation
+      cursor.execute("CREATE TABLE IF NOT EXISTS table-name (column-name data-type);")
 
-# MySQL Data Insertion
-# Add the data to be inserted into the table using text file and INSERT command if any data is to be inserted
+      # MySQL Data Insertion
+      # Add the data to be inserted into the table using text file and INSERT command if any data is to be inserted
 
-# All User Defined Functions
+      # All User Defined Functions
 
-def function-name():
-# Function Code
+      def function-name():
+      # Function Code
 
-# Main Menu
--- END --
+      # Main Menu
+      -- END --
 
       ```
       It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
