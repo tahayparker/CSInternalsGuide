@@ -312,7 +312,7 @@ sections:
 
       * (qs number). (Question)
       * (SQL Query)
-      (Output)
+      * (Output)
       
       
       Ensure that the SQL queries and outputs are in a monospace font (Courier New, Consolas, etc.)
