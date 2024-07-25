@@ -1022,33 +1022,6 @@ sections:
       
       `cursor.execute("INSERT INTO")` inserts data into the table from within Python itself, so you don't even have to see the MySQL terminal. Also ensures that the code works on any and every computer, provided the MySQL password is the same for all users.
 
-
-      
-      It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
-
-
-      <br>
-      
-      Color your code. Use a light theme in Visual Studio Code and then copy paste the code into Word.
-
-
-      The theme and the syntax highlighting will be copied as well. Looks nice, makes for a good first impression. Also "hides" errors because the examiner would be wow-ed by colors.
-      
-      
-      I personally used [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) after messing around a bit with the theme files to change a few colors. But you could use it as it is, or get a different theme. Just make sure it's light.
-
-
-
-      <br>
-
-      Use [GitHub Copilot](https://github.com/features/copilot) to help you write code. Helps save time.
-
-      Free for students who have applied for the [GitHub Education Pack](https://education.github.com/discount_requests/application) . You'll have to just prove that you're a student. Recommend using the school email to sign up, the approval is faster.
-
-
-      <br>
-
-      Use this [ANSI Character Generator](https://patorjk.com/software/taag/) to create cool looking titles that you can display when the program starts.
     elementId: ''
     styles:
       self:
