@@ -617,7 +617,7 @@ sections:
 
 
       Use [Google Fonts](https://fonts.google.com) to find monospaced fonts.
-    elementId: 'out'
+    elementId: 'output'
     styles:
       self:
         height: auto
