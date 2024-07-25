@@ -53,7 +53,7 @@ sections:
       Your file should contain the following headers:
 
       
-      * [Cover Page](#co)
+      * [Cover Page](#cover)
       
       
       * Certificate
