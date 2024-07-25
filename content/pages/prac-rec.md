@@ -15,7 +15,6 @@ sections:
 
 
       Two parts: Python and MySQL
-
     elementId: ''
     styles:
       self:
