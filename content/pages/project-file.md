@@ -132,7 +132,9 @@ sections:
     variant: variant-a
     title: The File / Record
     text: >+
-      This is the only project that you will have to do in your entire year.
+      Your file should contain the following headers:
+
+
 
 
       The project must be written in Python and must use MySQL connectivity.
