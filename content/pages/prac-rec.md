@@ -319,7 +319,8 @@ sections:
       
       * (Output)
       
-      <
+      <br>
+      
       Ensure that the SQL queries and outputs are in a monospace font (Consolas, etc.)
     elementId: intro
     styles:
