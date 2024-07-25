@@ -988,6 +988,7 @@ sections:
       
       cursor.execute("CREATE TABLE IF NOT EXISTS table-name (column-name data-type);")
 
+      
       # MySQL Data Insertion
       # Add the data to be inserted into the table using text file and INSERT command if any data is to be inserted
 
