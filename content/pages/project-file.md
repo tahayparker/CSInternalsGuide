@@ -424,7 +424,9 @@ sections:
       This section will describe your project in more technical terms.
 
 
-      Write about the various functions of your project, briefly explaining what the main ones do
+      Write about the various functions of your project, briefly explaining what the main ones do.
+
+      
 
     elementId: 'synopsis'
     styles:
