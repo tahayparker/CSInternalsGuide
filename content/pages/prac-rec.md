@@ -243,7 +243,7 @@ sections:
 
 
       * Experiment No. (number)
-      Aim: (insert aim here)
+      * Aim: (insert aim here)
       Code
       (insert code here)
       Output
