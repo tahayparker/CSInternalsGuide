@@ -421,7 +421,7 @@ sections:
     variant: variant-a
     title: Synopsis
     text: >+
-      This section will describe your
+      This section will describe your project in more 
 
     elementId: 'synopsis'
     styles:
