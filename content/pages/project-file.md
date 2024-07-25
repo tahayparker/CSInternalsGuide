@@ -650,17 +650,12 @@ sections:
     variant: variant-a
     title: Conclusion
     text: >+
-      The output of the program.
+Write a brief conclusion about your project.
 
-      Include all possible outputs of the program, by selecting the different options of the menu.
+This is a mix of the introduction and the synopsis.
 
-      If you run the program multiple times to get outputs, it is recommended to write `Run (number)` to show that the program output is from different sessions.
+A page for the conclusion should suffice.
 
-      **Output must be COPY-PASTED. NO SCREENSHOTS.**
-
-      If you have colors in your output, ensure that the same color is applied in the output.
-
-      It is recommended to use a monospace font, such as `Consolas` or any other font from the Internet.
     elementId: 'output'
     styles:
       self:
