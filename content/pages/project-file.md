@@ -727,7 +727,7 @@ sections:
       Some more sites you can include:
 
 
-https://www.w3schools.com/python/
+      https://www.w3schools.com/python/
 https://www.w3schools.com/sql/
 https://www.geeksforgeeks.org/python-programming-language/
 https://www.geeksforgeeks.org/sql-tutorial/
