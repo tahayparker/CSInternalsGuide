@@ -559,7 +559,7 @@ sections:
       This is the entire Python program that you have written.
 
 
-      Code must be COPY-PASTED. NO SCREENSHOTS.
+      **Code must be COPY-PASTED. NO SCREENSHOTS.
 
 
       Ensure that the program is properly indented.
