@@ -75,7 +75,6 @@ sections:
 
 
       Ensure that the page numbers are within the margins.
-
     elementId: ''
     styles:
       self:
