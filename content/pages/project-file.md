@@ -655,7 +655,6 @@ Write a brief conclusion about your project.
 This is a mix of the introduction and the synopsis.
 
 A page for the conclusion should suffice.
-
     elementId: 'output'
     styles:
       self:
