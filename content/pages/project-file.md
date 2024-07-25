@@ -464,7 +464,7 @@ sections:
     title: System Description
     text: >+
       ### Python
-      
+
 
       Include the following:
 
