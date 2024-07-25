@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Practical Record
-    subtitle: 8 marks
+    subtitle: 7 marks
     text: |
       A printed, binded document.
 
