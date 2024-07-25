@@ -427,7 +427,7 @@ sections:
       Write about the various functions of your project, briefly explaining what the main ones do.
 
 
-      This can be one to ty
+      This can be one to two pages long.
 
     elementId: 'synopsis'
     styles:
