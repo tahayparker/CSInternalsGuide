@@ -248,6 +248,8 @@ sections:
           (insert code here)
       * Output
           (insert output here)
+      
+      
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
       Use Google Fonts to find monospaced fonts.
