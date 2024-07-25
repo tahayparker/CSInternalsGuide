@@ -563,7 +563,7 @@ sections:
 
 
       This can be one to two pages long.
-    elementId: 'sour'
+    elementId: 'sourcecode'
     styles:
       self:
         height: auto
