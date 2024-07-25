@@ -614,7 +614,7 @@ sections:
 
       If you have colors in your output, ensure that the same color is applied in the output.
 
-      It is recommended to use a monospace font, such as Consolas or any other font from the Internet.
+      It is recommended to use a monospace font, such as `Consolas or any other font from the Internet.
     elementId: 'output'
     styles:
       self:
