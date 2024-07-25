@@ -229,25 +229,25 @@ sections:
     text: >
       There should be at least 20 to 25 Python programs in your practical record.
 
-  These programs should be copy-pasted. NO SCREENSHOTS.
+      These programs should be copy-pasted. NO SCREENSHOTS.
 
-  Ensure that the programs are part of the portions.
+      Ensure that the programs are part of the portions.
 
-  Ensure that the programs are numbered.
+      Ensure that the programs are numbered.
 
-  The format for each question is as follows:
+      The format for each question is as follows:
 
-  Experiment No. (number)
-  Aim: (insert aim here)
-  Code
-  (insert code here)
-  Output
-  (insert output here)
-  Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
+      Experiment No. (number)
+      Aim: (insert aim here)
+      Code
+      (insert code here)
+      Output
+      (insert output here)
+      Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
-  Use Google Fonts to find monospaced fonts.
+      Use Google Fonts to find monospaced fonts.
 
-  Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
+      Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
     elementId: acknowledgement
     styles:
       self:
