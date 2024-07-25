@@ -565,7 +565,6 @@ Ensure that the program is properly indented.
 It is recommended to use a monospace font, such as Consolas or any other font from the Internet.
 
 Use Google Fonts to find monospaced fonts.
-
     elementId: 'sourcecode'
     styles:
       self:
