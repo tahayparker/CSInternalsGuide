@@ -266,7 +266,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Certifiacte
+    title: Certifica
     text: >+
       ***This page must be provided by your teacher.***
 
