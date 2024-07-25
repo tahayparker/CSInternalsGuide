@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Practical 
+title: Practical Record
 sections:
   - type: TextSection
     colors: colors-f
