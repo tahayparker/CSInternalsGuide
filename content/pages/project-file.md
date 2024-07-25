@@ -845,7 +845,7 @@ sections:
     variant: variant-a
     title: Tips
     text: >+
-      Use [Visual Studio Code](https://code.visualstudio.com//) to write your project.
+      Use [Visual Studio Code](https://code.visualstudio.com/) to write your project.
 
       It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
 
