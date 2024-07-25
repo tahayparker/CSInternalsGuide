@@ -286,7 +286,6 @@ sections:
       Ensure that the teacher's preferred title is used (Mr./Mrs./Ms./etc.)
 
 
-
       ***Ensure academic year mentioned is the correct academic year. Currently, it will be 2024-2025.***
 
 
