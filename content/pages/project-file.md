@@ -477,7 +477,7 @@ sections:
       * Variables - Any and all variables you may have used. This includes variables such as `i` which is used in `for i in ...`
 
 
-      ##
+      ### MySQL
 
     elementId: 'synopsis'
     styles:
