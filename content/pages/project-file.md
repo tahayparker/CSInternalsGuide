@@ -130,7 +130,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The
+    title: The File / Record
     text: >+
       This is the only project that you will have to do in your entire year.
 
