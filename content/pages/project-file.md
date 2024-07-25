@@ -909,7 +909,7 @@ sections:
     text: >+
       Format your Python code in the following format, so that it can be run on any computer with minimal to no changes to the code.
 
-
+    
       It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
 
 
