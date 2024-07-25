@@ -496,7 +496,7 @@ sections:
       * Database name - Usually `your-project-name`
 
 
-      * Table 1: 
+      * Table 1: `table-n
     elementId: 'synopsis'
     styles:
       self:
