@@ -479,6 +479,8 @@ sections:
 
       ### MySQL
 
+
+      
     elementId: 'synopsis'
     styles:
       self:
