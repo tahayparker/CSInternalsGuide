@@ -481,6 +481,8 @@ sections:
 
 
       Include the following:
+      
+      
       * D
     elementId: 'synopsis'
     styles:
