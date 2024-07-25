@@ -134,9 +134,6 @@ sections:
     text: >+
       Your file should contain the following headers:
 
-
-
-
       *   Store-fronts (Movie store, Bookstore, etc.)
 
 
