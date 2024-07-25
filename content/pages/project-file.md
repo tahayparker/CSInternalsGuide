@@ -852,7 +852,11 @@ sections:
 
       <br>
       
-      
+      Color your code. Use a light theme in Visual Studio Code and then copy paste the code into Word.
+
+The theme and the syntax highlighting will be copied as well. Looks nice, makes for a good first impression. Also hides errors.
+
+
     elementId: ''
     styles:
       self:
