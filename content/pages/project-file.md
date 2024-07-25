@@ -910,7 +910,47 @@ sections:
       Format your Python code in the following format, so that it can be run on any computer with minimal to no changes to the code.
 
       ```
-      
+      import os
+import sys
+os.system("cls") OR os.system("clear") (ON MACS/LINUX ONLY)
+print("""
+Program Title in ANSI Characters
+████████ ██ ████████ ██      ███████ 
+   ██    ██    ██    ██      ██      
+   ██    ██    ██    ██      █████   
+   ██    ██    ██    ██      ██      
+   ██    ██    ██    ███████ ███████ 
+
+""")
+try:
+os.system("pip install mysql-connector-python")
+os.system("pip install #any other modules you used# ")
+except:
+sys.exit("Error installing modules!")
+try:
+import mysql.connector
+import #any other modules you used#
+except:
+sys.exit("Error importing modules!")
+
+# MySQL Connection Code
+con =
+cursor =
+
+# MySQL Table Creation
+cursor.execute("CREATE TABLE IF NOT EXISTS table-name (column-name data-type);")
+
+# MySQL Data Insertion
+# Add the data to be inserted into the table using text file and INSERT command if any data is to be inserted
+
+# All User Defined Functions
+
+def function-name():
+# Function Code
+
+# Main Menu
+-- END --
+
       ```
       It has syntax highlighting, themes, and auto-save functions among many others. Highly recommended.
 
