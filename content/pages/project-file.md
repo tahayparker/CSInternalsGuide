@@ -1054,7 +1054,7 @@ sections:
   - type: CtaSection
     title: Samples
     text: |
-      To see sample projects from AY 2022-2023, click o
+      To see sample projects from AY 2022-2023, click on the button
     actions:
       - type: Button
         label: Let's go!
