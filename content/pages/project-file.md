@@ -792,7 +792,7 @@ elementId: 'bibliography'
 
       If your parent's company has a printer, try asking if they can print. Otherwise, go to a stationery shop. Bargain as much as you can. Should be around 1 AED for 5 pages or so.
 
-Once you have printed the file, bind it. Spiral binding is the only binding accepted. Color should be as decided by your teacher.
+  Once you have printed the file, bind it. Spiral binding is the only binding accepted. Color should be as decided by your teacher.
 
 
 All students MUST use the same color of binding.
