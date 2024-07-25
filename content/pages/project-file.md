@@ -871,7 +871,7 @@ sections:
 
       <br>
 
-      Use this [ANSI Character Generator to create cool looking titles that you can display when the program starts.
+      Use this [ANSI Character Generator] to create cool looking titles that you can display when the program starts.
     elementId: ''
     styles:
       self:
