@@ -300,7 +300,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: M
+    title: MySQL
     text: >
       Write a brief introduction about your project.
 
