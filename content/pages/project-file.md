@@ -355,7 +355,54 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Introduction
+    text: >+
+      Write a brief introduction about your project.
 
+
+      This is more of marketing than technical talk.
+
+
+      Write about your project, and what it does, without going into the technical details at all.
+
+
+      You can even "create" a problem and then propose your project as a solution to the problem.
+
+
+      Do not exceed one page. Shouldn't get too boring.
+    elementId: 'intro'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-16
+          - pb-16
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 addTitleSuffix: true
 colors: colors-a
