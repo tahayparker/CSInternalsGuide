@@ -225,7 +225,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Acknowledgement
+    title: P
     text: >
       Pretty straighforward, nothing to worry about.
 
