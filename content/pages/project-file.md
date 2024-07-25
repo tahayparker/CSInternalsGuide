@@ -608,7 +608,7 @@ sections:
 
       Include all possible outputs of the program, by selecting the different options of the menu.
 
-      If you run the program multiple times to get outputs, it is recommended to write Run (number) to show that the program output is from different sessions.
+      If you run the program multiple times to get outputs, it is recommended to write `Run (number) to show that the program output is from different sessions.
 
       Output must be COPY-PASTED. NO SCREENSHOTS.
 
