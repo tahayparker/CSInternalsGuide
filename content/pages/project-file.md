@@ -940,6 +940,7 @@ sections:
         
         ██    ██    ██    ███████ ███████ 
 
+
       """)
       try:
       os.system("pip install mysql-connector-python")
