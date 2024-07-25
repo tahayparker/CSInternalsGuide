@@ -982,6 +982,7 @@ sections:
       
       cursor =
 
+      
       # MySQL Table Creation
       cursor.execute("CREATE TABLE IF NOT EXISTS table-name (column-name data-type);")
 
