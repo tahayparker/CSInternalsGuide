@@ -146,7 +146,7 @@ sections:
       * [Introduction](#intro)
 
 
-      * [Synopsis](#synopsos)
+      * [Synopsis](#synopsis)
 
 
       * System Description
