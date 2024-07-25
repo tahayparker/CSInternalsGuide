@@ -975,7 +975,6 @@ sections:
 
 
       
-    
       # MySQL Connection Code
       con =
       cursor =
