@@ -162,6 +162,7 @@ sections:
 
 
       * Bibliography
+      
     elementId: ''
     styles:
       self:
