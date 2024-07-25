@@ -478,6 +478,7 @@ sections:
 
 
 
+
     elementId: 'synopsis'
     styles:
       self:
