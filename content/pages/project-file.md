@@ -334,7 +334,7 @@ sections:
       Or copy-paste, yknow. Or just use GPT. Pretty helpful. Should be about half a page long.
 
 
-      Pro Tip: [Claude AI](https://claude.ai) writes stuff pretty naturally if you tell it to. [Contact me](https://tahayparker.vercel.app/contact/) if you wat
+      Pro Tip: [Claude AI](https://claude.ai) writes stuff pretty naturally if you tell it to. [Contact me](https://tahayparker.vercel.app/contact/) if you want the proi
       Do not exceed one page. Seriously. No need to thank every single person.
     elementId: 'certificate'
     styles:
