@@ -53,6 +53,7 @@ sections:
       Your file should contain the following headers:
 
       * Cover Page
+      
       * Certificate
       * Python programs (questions to be listed in index)
       * MySQL programs
