@@ -214,19 +214,19 @@ sections:
     variant: variant-a
     title: Cover Page
     text: >+
-This page must be provided by your teacher.
+  This page must be provided by your teacher.
 
-This is the first page of your record.
+  This is the first page of your record.
 
-Contains the title ("Project Record"), the academic year, the name of your project (three to four words max), and a place for your details.
+  Contains the title ("Project Record"), the academic year, the name of your project (three to four words max), and a place for your details.
 
-The page numbers for the record start from the cover page.
+  The page numbers for the record start from the cover page.
 
-Ensure logos and other details are within the margins.
+  Ensure logos and other details are within the margins.
 
-Ensure academic year mentioned is the correct academic year. Currently, it will be 2023-2024.
+  Ensure academic year mentioned is the correct academic year. Currently, it will be 2023-2024.
 
-DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.
+  DO NOT PRINT THE DETAILS. These will be written by hand, using black/blue ink on or before the day of the practical exam.
 
     elementId: 'cover'
     styles:
