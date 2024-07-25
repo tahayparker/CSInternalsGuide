@@ -10,7 +10,10 @@ sections:
     text: |
       A printed, binded document.
 
-      Contains your project written in pure Python with connectivity to MySQL.
+Much much easier than the Project Record, considering it's just copy paste.
+
+Two parts: Python and MySQL
+
     elementId: ''
     styles:
       self:
