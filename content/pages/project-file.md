@@ -130,7 +130,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Project
+    title: The
     text: >+
       This is the only project that you will have to do in your entire year.
 
