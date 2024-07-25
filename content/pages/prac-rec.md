@@ -479,7 +479,7 @@ sections:
         label: Practical Files
         altText: ''
         url: >-
-          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Project%20Files
+          https://github.com/tahayparker/CSInternalsGuide/tree/main/Resources/Experiments
         showIcon: true
         icon: arrowRight
         iconPosition: right
