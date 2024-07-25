@@ -650,7 +650,7 @@ sections:
     variant: variant-a
     title: Conclusion
     text: >+
-Write a brief conclusion about your project.
+      Write a brief conclusion about your project.
 
 This is a mix of the introduction and the synopsis.
 
