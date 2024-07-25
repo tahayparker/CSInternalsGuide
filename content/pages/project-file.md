@@ -632,6 +632,52 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: Program Output
+    text: >+
+      The output of the program.
+
+      Include all possible outputs of the program, by selecting the different options of the menu.
+
+      If you run the program multiple times to get outputs, it is recommended to write `Run (number)` to show that the program output is from different sessions.
+
+      **Output must be COPY-PASTED. NO SCREENSHOTS.**
+
+      If you have colors in your output, ensure that the same color is applied in the output.
+
+      It is recommended to use a monospace font, such as `Consolas` or any other font from the Internet.
+    elementId: 'output'
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-6
+          - pb-6
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 
 
 addTitleSuffix: true
