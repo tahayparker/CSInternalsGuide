@@ -158,7 +158,7 @@ sections:
       * [Program Output](#output)
 
 
-      * [Conclusion
+      * [Conclusion])
 
 
       * Bibliography
