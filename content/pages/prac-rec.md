@@ -56,7 +56,7 @@ sections:
       * [Cover Page](#cover)
       
       
-      * [Certificate]()
+      * [Certificate](#certificate)
       
       
       * Python programs (questions to be listed in index)
