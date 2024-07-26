@@ -23,7 +23,7 @@
                 "url": "/prac-assmt"
             },
             {
-                "type": "Link",
+                "type": "V",
                 "label": "Blog",
                 "url": "/blog"
             }
