@@ -46,7 +46,7 @@ code {
 
         a {
             @apply underline;
-            curso
+            cursor:
         }
 
         a:hover {
