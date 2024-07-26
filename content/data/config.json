@@ -46,6 +46,7 @@
     "footer": {
         "type": "Footer",
         "primaryLinks": [
+            
             {
                 "type": "Link",
                 "label": "GitHub",
