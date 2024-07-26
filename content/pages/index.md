@@ -111,7 +111,7 @@ sections:
           - pr-4
         justifyContent: center
       title:
-        textAlign: le
+        textAlign: left
       subtitle:
         textAlign: left
       text:
