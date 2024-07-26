@@ -50,7 +50,7 @@
                 "type": "Link",
                 "label": "Project",
                 "url": "/project-file",
-                
+                "altText": ""
             },
             {
                 "type": "Link",
