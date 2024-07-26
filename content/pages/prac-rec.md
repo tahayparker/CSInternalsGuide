@@ -323,7 +323,7 @@ sections:
       <br>
 
       Ensure that the SQL queries and outputs are in a monospace font (Consolas, etc.)
-    elementId: m
+    elementId: mysql
     styles:
       self:
         height: auto
