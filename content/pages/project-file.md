@@ -25,7 +25,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: ri
+        textAlign: right
       text:
         textAlign: left
   - type: DividerSection
