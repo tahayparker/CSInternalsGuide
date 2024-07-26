@@ -46,7 +46,26 @@
     "footer": {
         "type": "Footer",
         "primaryLinks": [
-            
+            {
+                "type": "Link",
+                "label": "Project",
+                "url": "/project-file"
+            },
+            {
+                "type": "Link",
+                "label": "Practical Record",
+                "url": "/prac-rec"
+            },
+            {
+                "type": "Link",
+                "label": "Practical Assessment",
+                "url": "/prac-assmt"
+            },
+            {
+                "type": "Link",
+                "label": "Viva",
+                "url": "/viva"
+            }
             {
                 "type": "Link",
                 "label": "GitHub",
