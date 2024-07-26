@@ -6,7 +6,7 @@
 
 html {
     scroll-behavior: smooth;
-    cursor: url("../../public/images/mousew.png"), auto;
+    cursor: url("../../public/"), auto;
 }
 
 code {
