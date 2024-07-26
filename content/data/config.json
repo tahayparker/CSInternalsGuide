@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-d",
+        "headerVariant": "variant-b",
         "isSticky": true,
         "title": "CSIG",
         "isTitleVisible": true,
