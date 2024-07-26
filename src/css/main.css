@@ -10,7 +10,7 @@ html {
 }
 
 code {
-    font-family: ["Space "]
+    font-family: ["Space Mono", monospace];
 }
 @layer base {
     body {
