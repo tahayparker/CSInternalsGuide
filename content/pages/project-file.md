@@ -1000,7 +1000,7 @@ sections:
       
       -- END --
 
-</code>
+  </code>
       
       `import os, sys` imports special modules that help connect with the terminal of your system.
 
