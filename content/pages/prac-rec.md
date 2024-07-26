@@ -7,11 +7,14 @@ sections:
     variant: variant-a
     title: Practical Record
     subtitle: 7 marks
-    text: |
+    text: >
       A printed, binded document.
 
 
-      Much much easier than the Project Record, considering it's just copy paste.
+
+      Much much easier than the Project Record, considering it's just copy
+      paste.
+
 
 
       Two parts: Python and MySQL
@@ -49,29 +52,34 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Record
-    text: >+
+    text: >
       Your file should contain the following headers:
 
-      
+
       * [Cover Page](#cover)
-      
-      
+
+
       * [Certificate](#certificate)
-      
-      
+
+
       * [Python programs (questions to be listed in index)](#python)
-      
-      
+
+
       * [MySQL programs](#mysql)
-      
-      
-      Your file should have borders on all pages. The borders should be formal. Consider selecting solid or double borders, preferably in black.
-
-      
-      Your file should have page numbers on all pages. There is no rule regarding the format, but the preferred placement of the page number is either bottom centered or in the bottom right corner.
 
 
-      Leave a margin on the left for the binding. You may go with narrow borders, and then press custom borders and add 0.5 to 1 cm to the margin on the left.
+      Your file should have borders on all pages. The borders should be formal.
+      Consider selecting solid or double borders, preferably in black.
+
+
+      Your file should have page numbers on all pages. There is no rule
+      regarding the format, but the preferred placement of the page number is
+      either bottom centered or in the bottom right corner.
+
+
+      Leave a margin on the left for the binding. You may go with narrow
+      borders, and then press custom borders and add 0.5 to 1 cm to the margin
+      on the left.
 
 
       Ensure that the page numbers are within the margins.
@@ -116,7 +124,8 @@ sections:
       This is the first page of your record.
 
 
-      Contains the title ("Practical Record"), the academic year, and a place for your details.
+      Contains the title ("Practical Record"), the academic year, and a place
+      for your details.
 
 
       The page numbers for the record start from the cover page.
@@ -227,7 +236,8 @@ sections:
     variant: variant-a
     title: Python
     text: >
-      There should be at least 20 to 25 Python programs in your practical record.
+      There should be at least 20 to 25 Python programs in your practical
+      record.
 
 
       These programs should be copy-pasted. NO SCREENSHOTS.
@@ -243,30 +253,32 @@ sections:
 
 
       * Experiment No. (number)
-      
-      
+
+
       * Aim: (insert aim here)
-      
-      
+
+
       * Code
 
         (insert code here)
-      
-      
+
+
       * Output
         
         (insert output here)
-      
-      
+
+
       <br>
 
       Ensure that the code is in a monospace font (Courier New, Consolas, etc.)
 
 
-      Use [Google Fonts](https://fonts.google.com/?classification=Monospace) to find monospaced fonts.
+      Use [Google Fonts](https://fonts.google.com/?classification=Monospace) to
+      find monospaced fonts.
 
 
-      Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
+      Try to run the program multiple times to fill the page. If the program has
+      a menu, show the output of all the menus.
     elementId: python
     styles:
       self:
@@ -304,25 +316,27 @@ sections:
     text: >
       You may or may not have started this when you started learning MySQL.
 
-      
-      This should contain around 50 to 70 SQL questions, from various concepts learnt throughout the whole SQL journey.
 
-      
+      This should contain around 50 to 70 SQL questions, from various concepts
+      learnt throughout the whole SQL journey.
+
+
       The format is as follows:
 
-      
+
       * (qs number). (Question)
-      
-      
+
+
       * (SQL Query)
-      
-      
+
+
       * (Output)
-      
-      
+
+
       <br>
 
-      Ensure that the SQL queries and outputs are in a monospace font (Consolas, etc.)
+      Ensure that the SQL queries and outputs are in a monospace font (Consolas,
+      etc.)
     elementId: mysql
     styles:
       self:
@@ -357,25 +371,31 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Finalizing & Printing
-    text: >+
-      Once you are done with the first draft of the file, export it as a PDF and send it to your teacher for approval.
+    text: >
+      Once you are done with the first draft of the file, export it as a PDF and
+      send it to your teacher for approval.
 
 
-      Printing should be done preferably on 80 GSM paper. Size is compulsorily A4.
+      Printing should be done preferably on 80 GSM paper. Size is compulsorily
+      A4.
 
 
       <br>
-      
-      When sending for printing, please send the PDF. Using Word for printing will ruin the formatting.
+
+      When sending for printing, please send the PDF. Using Word for printing
+      will ruin the formatting.
 
 
       Use a good quality printer. The print should be clear and readable.
 
 
-      If your parent's company has a printer, try asking if they can print. Otherwise, go to a stationery shop. Bargain as much as you can. Should be around 1 AED for 5 pages or so.
+      If your parent's company has a printer, try asking if they can print.
+      Otherwise, go to a stationery shop. Bargain as much as you can. Should be
+      around 1 AED for 5 pages or so.
 
 
-      Once you have printed the file, bind it. Spiral binding is the only binding accepted. Color should be as decided by your teacher.
+      Once you have printed the file, bind it. Spiral binding is the only
+      binding accepted. Color should be as decided by your teacher.
 
 
       <br>
@@ -383,10 +403,13 @@ sections:
       All students MUST use the same color of binding.
 
 
-      Once you have bound the file, you are done. Congratulations! Submit the file for final checks.
+      Once you have bound the file, you are done. Congratulations! Submit the
+      file for final checks.
 
 
-      While there shouldn't be any reason for the teacher to make corrections now (if the file was previously approved), it is still a good idea to get it checked once and correct any errors that may be pointed out.
+      While there shouldn't be any reason for the teacher to make corrections
+      now (if the file was previously approved), it is still a good idea to get
+      it checked once and correct any errors that may be pointed out.
     elementId: ''
     styles:
       self:
@@ -421,14 +444,21 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Tips
-    text: >+
-      Color your code. Use a light theme in Visual Studio Code and then copy paste the code into Word.
+    text: >
+      Color your code. Use a light theme in Visual Studio Code and then copy
+      paste the code into Word.
 
 
-      The theme and the syntax highlighting will be copied as well. Looks nice, makes for a good first impression. Also "hides" errors because the examiner would be wow-ed by colors.
-      
-      
-      I personally used [Kary Pro Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes) after messing around a bit with the theme files to change a few colors. But you could use it as it is, or get a different theme. Just make sure it's light.
+      The theme and the syntax highlighting will be copied as well. Looks nice,
+      makes for a good first impression. Also "hides" errors because the
+      examiner would be wow-ed by colors.
+
+
+      I personally used [Kary Pro
+      Colors](https://marketplace.visualstudio.com/items?itemName=karyfoundation.theme-karyfoundation-themes)
+      after messing around a bit with the theme files to change a few colors.
+      But you could use it as it is, or get a different theme. Just make sure
+      it's light.
     elementId: ''
     styles:
       self:
@@ -509,9 +539,9 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: '/images/Property 1=dark, Property 2=9.png'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 80
+  opacity: 60
 ---
