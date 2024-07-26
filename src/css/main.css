@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 html {
-    scroll-behavior: 
+    scroll-behavior: smooth
 }
 @layer base {
     body {
