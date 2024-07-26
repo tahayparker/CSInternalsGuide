@@ -267,7 +267,7 @@ sections:
 
 
       Try to run the program multiple times to fill the page. If the program has a menu, show the output of all the menus.
-    elementId: pytho
+    elementId: python
     styles:
       self:
         height: auto
