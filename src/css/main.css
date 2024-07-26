@@ -6,7 +6,7 @@
 
 html {
     scroll-behavior: smooth;
-    cursor: url()
+    cursor: url("")
 }
 
 @layer base {
