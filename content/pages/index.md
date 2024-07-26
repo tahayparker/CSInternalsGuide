@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: '/images/Property 1=dark, Property 2=14.png'
+  url: '/images/Property 1=dark, Property 2=16.png'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
