@@ -39,7 +39,7 @@ module.exports = {
                 '9/16': '56.25%'
             },
             fontFamily: {
-                fontPrimary: ['Josefin Sa', 'monospace'],
+                fontPrimary: ['Josefin Sans', 'monospace'],
                 fontSecondary: ['Josefin Sans', 'monospace']
             },
             letterSpacing: {
