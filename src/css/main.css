@@ -41,7 +41,7 @@ html {
 
         a {
             @apply underline;
-            
+
         }
 
         a:hover {
@@ -86,6 +86,7 @@ html {
         li>ul,
         li>ol {
             margin: 0;
+            
         }
 
         blockquote {
