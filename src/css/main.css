@@ -56,7 +56,7 @@ code {
 
         b,
         strong {
-            @apply font-bo;
+            @apply font-bold;
         }
 
         em {
