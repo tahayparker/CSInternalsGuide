@@ -57,7 +57,7 @@ code {
         b,
         strong {
             @apply font-bold;
-            color: inherit;
+            color: re;
         }
 
         em {
