@@ -191,7 +191,7 @@ code {
     /* Links */
     .sb-component-link {
         @apply relative inline-flex items-center justify-center text-lg no-underline;
-        cursor
+        cursor: 
     }
 
     .sb-component-link:not(.sb-component-link-fill) {
