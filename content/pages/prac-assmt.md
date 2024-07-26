@@ -78,7 +78,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: '/images/Property 1=dark, Property 2=19.png'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
