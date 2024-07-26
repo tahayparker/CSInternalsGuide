@@ -46,7 +46,7 @@ code {
 
         a {
             @apply underline;
-            cursor: url("../../public/images/mouse.png"), auto;
+            cursor: url("../../public/images/mousew.png"), auto;
         }
 
         a:hover {
