@@ -51,7 +51,7 @@ code {
 
         a:hover {
             @apply no-underline;
-            
+            cursor: url("../../public/images/mousew.png"), auto;
         }
 
         b,
