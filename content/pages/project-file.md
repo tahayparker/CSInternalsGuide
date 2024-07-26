@@ -910,7 +910,7 @@ sections:
       Format your Python code in the following format, so that it can be run on any computer with minimal to no changes to the code.
 
 
-      ```p
+      ```python
 
       import os
 
