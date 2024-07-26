@@ -4,7 +4,7 @@ title: Project File
 sections:
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: Project File
     subtitle: 8 marks
     text: |
