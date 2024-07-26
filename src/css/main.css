@@ -6,7 +6,7 @@
 
 html {
     scroll-behavior: smooth;
-    cursor: url("") 18 18, auto;
+    cursor: url("./") 18 18, auto;
 }
 
 code {
