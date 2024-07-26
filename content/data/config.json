@@ -3,7 +3,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
-        "isSticky": tru,
+        "isSticky": true,
         "title": "CSIG",
         "isTitleVisible": true,
         "primaryLinks": [
