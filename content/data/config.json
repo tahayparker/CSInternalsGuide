@@ -55,7 +55,8 @@
             {
                 "type": "Link",
                 "label": "Practical Record",
-                "url": "/prac-rec"
+                "url": "/prac-rec",
+                
             },
             {
                 "type": "Link",
