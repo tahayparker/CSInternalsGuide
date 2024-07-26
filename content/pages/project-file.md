@@ -910,7 +910,7 @@ sections:
       Format your Python code in the following format, so that it can be run on any computer with minimal to no changes to the code.
 
 
-    <code>
+      <code>>
 
       import os
 
@@ -986,6 +986,7 @@ sections:
       
       # Add the data to be inserted into the table using text file and INSERT command if any data is to be inserted
 
+      
       # All User Defined Functions
 
       
@@ -999,7 +1000,7 @@ sections:
       
       -- END --
 
-    </code>
+      ```
       
       `import os, sys` imports special modules that help connect with the terminal of your system.
 
