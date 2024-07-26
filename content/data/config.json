@@ -23,7 +23,7 @@
                 "url": "/prac-assmt"
             },
             {
-                "type": "Viva",
+                "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
             }
