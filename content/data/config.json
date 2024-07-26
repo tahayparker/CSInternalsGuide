@@ -4,7 +4,7 @@
         "type": "Header",
         "headerVariant": "variant-b",
         "isSticky": true,
-        "title": "CS Internals ",
+        "title": "CS Internals Guide",
         "isTitleVisible": true,
         "primaryLinks": [
             {
