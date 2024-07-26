@@ -49,7 +49,8 @@
             {
                 "type": "Link",
                 "label": "Project",
-                "url": "/project-file"
+                "url": "/project-file",
+                
             },
             {
                 "type": "Link",
