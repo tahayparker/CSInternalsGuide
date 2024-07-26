@@ -40,7 +40,7 @@ module.exports = {
             },
             fontFamily: {
                 fontPrimary: ['Saira', 'monospace'],
-                fontSecondary: ['Josefin S', 'monospace']
+                fontSecondary: ['Josefin Sans', 'monospace']
             },
             letterSpacing: {
                 wide: '.05em',
