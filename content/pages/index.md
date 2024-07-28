@@ -116,4 +116,15 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: CS Internals Guide
+metaDescription: CS Internals Guide for CBSE Students
+addTitleSuffix: true
+metaTags:
+  - type: MetaTag
+    property: 'og:url'
+    content: 'https://csig.vercel.app'
+  - type: MetaTag
+    property: 'og:title'
+    content: CS Internals Guide
+socialImage: /images/CSIG.png
 ---
