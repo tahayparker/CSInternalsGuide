@@ -6,7 +6,7 @@
 
 html {
     scroll-behavior: smooth;
-    cursor: url("../../public/images/mousew.png"), auto;
+    cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
 }
 
 code {
@@ -51,12 +51,12 @@ p {
 
         a {
             @apply underline;
-            cursor: url("../../public/images/mousew.png"), auto;
+            cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
         }
 
         a:hover {
             @apply no-underline;
-            cursor: url("../../public/images/mousew.png"), auto;
+            cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
         }
 
         b,
@@ -195,7 +195,7 @@ p {
     /* Links */
     .sb-component-link {
         @apply relative inline-flex items-center justify-center text-lg no-underline;
-        cursor: url("../../public/images/mousew.png"), auto;
+        cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
     }
 
     .sb-component-link:not(.sb-component-link-fill) {
@@ -226,7 +226,7 @@ p {
         transition: color 0.25s ease-in-out;
         transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
         z-index: 1;
-        cursor: url("../../public/images/mouseb.png"), auto;
+        cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mouseb.png"), auto;
     }
 
     .sb-component-link-fill:before,
