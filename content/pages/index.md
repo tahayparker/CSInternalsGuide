@@ -116,4 +116,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: CS Internals Guide
 ---
