@@ -122,5 +122,5 @@ addTitleSuffix: true
 metaTags:
   - type: MetaTag
     property: 'og:url'
-    content: ''
+    content: 'https://csig.vercel.app'
 ---
