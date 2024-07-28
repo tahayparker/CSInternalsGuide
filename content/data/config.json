@@ -3,7 +3,7 @@
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
-        "isSticky": true,
+        "isSticky": false,
         "title": "CS Internals Guide",
         "isTitleVisible": true,
         "primaryLinks": [
