@@ -127,7 +127,7 @@ metaTags:
     property: 'og:title'
     content: CS Internals Guide
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:image'
     content: ''
 socialImage: /images/CSIG.png
 ---
