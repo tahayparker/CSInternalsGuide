@@ -118,4 +118,5 @@ sections:
         textAlign: left
 metaTitle: CS Internals Guide
 metaDescription: CS Internals Guide for CBSE Students
+addTitleSuffix: true
 ---
