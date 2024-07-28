@@ -50,7 +50,7 @@
 
     html {
         scroll-behavior: smooth;
-        cursor: url("../../public/images/mousew.png"), auto;
+        cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
     }
 
     code {
