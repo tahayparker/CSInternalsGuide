@@ -4,22 +4,23 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-    scroll-behavior: smooth;
-    cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
-}
-
-code {
-    font-family: "Space Mono", monospace;
-    font-size: 0.875em;
-    color: #E83E8C;
-}
-
-p {
-    font-family: Tajawal, sans;
-}
-
 @layer base {
+
+    html {
+        scroll-behavior: smooth;
+        cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
+    }
+
+    code {
+        font-family: "Space Mono", monospace;
+        font-size: 0.875em;
+        color: #E83E8C;
+    }
+
+    p {
+        font-family: Tajawal, sans;
+    }
+
     body {
         @apply flex flex-col min-h-screen antialiased;
     }
@@ -46,6 +47,22 @@ p {
 }
 
 @layer components {
+
+    html {
+        scroll-behavior: smooth;
+        cursor: url("../../public/images/mousew.png"), auto;
+    }
+
+    code {
+        font-family: "Space Mono", monospace;
+        font-size: 0.875em;
+        color: #E83E8C;
+    }
+
+    p {
+        font-family: Tajawal, sans;
+    }
+
     .sb-markdown {
         @apply text-lg leading-relaxed;
 
