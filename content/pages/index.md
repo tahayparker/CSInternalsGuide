@@ -123,5 +123,8 @@ metaTags:
   - type: MetaTag
     property: 'og:url'
     content: 'https://csig.vercel.app'
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 socialImage: /images/CSIG.png
 ---
