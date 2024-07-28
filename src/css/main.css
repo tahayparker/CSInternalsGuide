@@ -21,6 +21,10 @@
         font-family: Tajawal, sans;
     }
 
+    a {
+        cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
+    }
+
     body {
         @apply flex flex-col min-h-screen antialiased;
     }
@@ -61,6 +65,10 @@
 
     p {
         font-family: Tajawal, sans;
+    }
+
+    a {
+        cursor: url("https://raw.githubusercontent.com/tahayparker/CSInternalsGuide/main/public/images/mousew.png"), auto;
     }
 
     .sb-markdown {
