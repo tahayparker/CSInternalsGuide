@@ -119,4 +119,8 @@ sections:
 metaTitle: CS Internals Guide
 metaDescription: CS Internals Guide for CBSE Students
 addTitleSuffix: true
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
