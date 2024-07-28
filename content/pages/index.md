@@ -125,6 +125,6 @@ metaTags:
     content: 'https://csig.vercel.app'
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: CS Internals Guide
 socialImage: /images/CSIG.png
 ---
