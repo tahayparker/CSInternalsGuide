@@ -1,5 +1,8 @@
 # CS Internal Assessment Guide
 
+![image](https://github.com/user-attachments/assets/624c6855-2af8-4999-9045-ebf3b53ce6dd)
+
+
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
 
 
